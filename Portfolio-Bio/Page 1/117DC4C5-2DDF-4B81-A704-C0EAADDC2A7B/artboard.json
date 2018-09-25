@@ -47,6 +47,14 @@
     {
       "class": "text",
       "id": "B3DF6414-146D-42BC-94A7-F6758AD02756"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5F6B811A-6346-4F78-9D72-F9AA59C70DC2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14174A2B-F8A3-4CC1-9CDF-45C8DE994267"
     }
   ],
   "name": "Mood Board",

@@ -25,11 +25,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 55,
         "location": 0
       }
     ],
-    "string": "No white space"
+    "string": "No white space, fill with images, text, patterns, etc. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,7 +52,7 @@
     "x": 55,
     "y": 59
   },
-  "glyphBounds": "{{0, 2}, {82, 12}}",
+  "glyphBounds": "{{0, 2}, {268, 12}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -60,7 +60,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "No white space",
+  "name": "No white space, fill",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
