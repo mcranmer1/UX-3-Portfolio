@@ -49,12 +49,20 @@
       "id": "B6DF1E21-E36A-4E4C-A88A-8182D6A0067D"
     },
     {
+      "class": "bitmap",
+      "id": "634C74D1-3717-47C2-9870-939205292195"
+    },
+    {
       "class": "shapeGroup",
       "id": "FB0CED39-25C4-436F-B8AF-7D5C3598B677"
     },
     {
       "class": "bitmap",
-      "id": "65404C25-2B21-4B5A-8EAF-6E265A252D44"
+      "id": "279D1BF0-390D-46BA-B43A-C2E5CCFF511B"
+    },
+    {
+      "class": "bitmap",
+      "id": "2771D462-660D-4130-96A9-C161D0D6F917"
     },
     {
       "class": "shapeGroup",
@@ -74,19 +82,11 @@
     },
     {
       "class": "bitmap",
-      "id": "2771D462-660D-4130-96A9-C161D0D6F917"
-    },
-    {
-      "class": "bitmap",
       "id": "D2D0D26F-0615-449D-AF26-1B6FBBE2DAA7"
     },
     {
       "class": "bitmap",
       "id": "B5F4200F-AE07-4407-AD4C-5FBA41AEDA44"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5B14A025-871A-45B1-8576-8E27F9742BF1"
     },
     {
       "class": "group",
@@ -101,16 +101,24 @@
       "id": "9D07CF1D-8F65-46ED-A880-64FD0609F808"
     },
     {
-      "class": "group",
-      "id": "524DAC7B-3EFC-43EA-B6EB-EDF661DD3946"
-    },
-    {
       "class": "bitmap",
       "id": "783282F1-1954-4372-8AF8-906AC4429FA3"
     },
     {
       "class": "group",
       "id": "C2B85FFB-7FB2-44E1-A88F-1F4E3A0B9782"
+    },
+    {
+      "class": "bitmap",
+      "id": "01936922-4415-4809-9336-DEA663457CCC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5B14A025-871A-45B1-8576-8E27F9742BF1"
+    },
+    {
+      "class": "group",
+      "id": "524DAC7B-3EFC-43EA-B6EB-EDF661DD3946"
     }
   ],
   "name": "Mood Board",
