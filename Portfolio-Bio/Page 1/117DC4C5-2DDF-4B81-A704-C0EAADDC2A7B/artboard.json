@@ -46,15 +46,23 @@
   "layers": [
     {
       "class": "bitmap",
-      "id": "BA180942-150D-4732-9A3A-4E7E3A4DF5F6"
+      "id": "B6DF1E21-E36A-4E4C-A88A-8182D6A0067D"
     },
     {
       "class": "shapeGroup",
       "id": "FB0CED39-25C4-436F-B8AF-7D5C3598B677"
     },
     {
+      "class": "bitmap",
+      "id": "65404C25-2B21-4B5A-8EAF-6E265A252D44"
+    },
+    {
       "class": "shapeGroup",
       "id": "D88C1BA1-3E1A-41F6-82D5-0948EC37697F"
+    },
+    {
+      "class": "bitmap",
+      "id": "BA180942-150D-4732-9A3A-4E7E3A4DF5F6"
     },
     {
       "class": "bitmap",
@@ -63,6 +71,10 @@
     {
       "class": "bitmap",
       "id": "3BE9D642-16F2-46B2-A1B8-3D0BD2B5FDD8"
+    },
+    {
+      "class": "bitmap",
+      "id": "2771D462-660D-4130-96A9-C161D0D6F917"
     },
     {
       "class": "bitmap",
@@ -81,10 +93,6 @@
       "id": "21BDFD17-A615-4214-AC69-B6205E2C43C4"
     },
     {
-      "class": "bitmap",
-      "id": "8D6788F3-5B8D-4C4E-81FD-AFB9F6C724FA"
-    },
-    {
       "class": "shapeGroup",
       "id": "36F88BA9-A7EE-402C-9016-501261A13DE0"
     },
@@ -98,7 +106,7 @@
     },
     {
       "class": "bitmap",
-      "id": "961899BD-26F7-4BBC-BE3A-ACCCBE21693C"
+      "id": "783282F1-1954-4372-8AF8-906AC4429FA3"
     },
     {
       "class": "group",
