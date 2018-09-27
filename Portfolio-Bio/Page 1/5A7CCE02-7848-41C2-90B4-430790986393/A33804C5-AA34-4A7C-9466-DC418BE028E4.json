@@ -24,11 +24,11 @@
             "_class": "paragraphStyle"
           }
         },
-        "length": 35,
+        "length": 153,
         "location": 0
       }
     ],
-    "string": "Madison Cranmer\n\nHi, \n\n300 word min"
+    "string": "Madison Cranmer\n\nHi, I am a graphic and ux designer that has a passion for innovative thinking and design. \n\nI was born and raised in Anchorage, Alaska. "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,7 +51,7 @@
     "x": 25,
     "y": 27
   },
-  "glyphBounds": "{{0, 2}, {96, 66}}",
+  "glyphBounds": "{{0, 2}, {426, 82}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
