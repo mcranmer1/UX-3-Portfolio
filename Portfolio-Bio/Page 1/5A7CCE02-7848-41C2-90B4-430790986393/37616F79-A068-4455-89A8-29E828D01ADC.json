@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Coquette",
+              "name": "PTSans-Caption",
               "size": 36
             }
           },
@@ -47,9 +47,9 @@
     "height": 50,
     "width": 322,
     "x": 25,
-    "y": 26
+    "y": 29
   },
-  "glyphBounds": "{{1, 9}, {269, 27}}",
+  "glyphBounds": "{{3, 6}, {307, 27}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -81,7 +81,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Coquette",
+            "name": "PTSans-Caption",
             "size": 36
           }
         },
