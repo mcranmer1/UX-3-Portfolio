@@ -47,6 +47,18 @@
     {
       "class": "text",
       "id": "A33804C5-AA34-4A7C-9466-DC418BE028E4"
+    },
+    {
+      "class": "text",
+      "id": "37616F79-A068-4455-89A8-29E828D01ADC"
+    },
+    {
+      "class": "bitmap",
+      "id": "CBEA08AC-B36D-4C9C-B644-E90DF65D0750"
+    },
+    {
+      "class": "text",
+      "id": "577BA695-2F27-41A7-AC2B-F2AC73DEF5F9"
     }
   ],
   "name": "Bio",
