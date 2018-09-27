@@ -2,7 +2,7 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "0B3A8BA8-557F-4FE5-BA2B-4C40539E558A",
+  "do_objectID": "5B14A025-871A-45B1-8576-8E27F9742BF1",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,13 +15,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 154,
-    "width": 155,
+    "height": 147.259186028926,
+    "width": 356,
     "x": 0,
-    "y": 0
+    "y": 150.8091733460742
   },
   "hasClickThrough": false,
-  "hasClippingMask": true,
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -30,11 +30,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "oval",
-      "id": "FE8D611B-F317-43D1-BA0D-2AB8CE61BA1E"
+      "class": "shapePath",
+      "id": "F98D385B-0C70-4CD0-8009-C29A652E0FE1"
     }
   ],
-  "name": "Mask",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -54,7 +54,7 @@
         },
         "fillType": 0,
         "isEnabled": false,
-        "position": 0,
+        "position": 1,
         "thickness": 1
       }
     ],
@@ -65,9 +65,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.2627450980392156,
+          "green": 0.2274509803921569,
+          "red": 0.3803921568627451
         },
         "fillType": 0,
         "isEnabled": true,
@@ -78,6 +78,28 @@
       }
     ],
     "miterLimit": 10,
+    "shadows": [
+      {
+        "_class": "shadow",
+        "blurRadius": 4,
+        "color": {
+          "_class": "color",
+          "alpha": 0.5,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "contextSettings": {
+          "_class": "graphicsContextSettings",
+          "blendMode": 0,
+          "opacity": 1
+        },
+        "isEnabled": true,
+        "offsetX": 5,
+        "offsetY": 2,
+        "spread": 0
+      }
+    ],
     "startMarkerType": 0,
     "windingRule": 1
   },
