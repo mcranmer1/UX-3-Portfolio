@@ -17,6 +17,31 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
+              "size": 48
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle"
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 16,
+        "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PTSans-CaptionBold",
               "size": 36
             }
           },
@@ -25,8 +50,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 17,
-        "location": 0
+        "length": 1,
+        "location": 16
       },
       {
         "_class": "stringAttribute",
@@ -79,7 +104,7 @@
         "location": 46
       }
     ],
-    "string": "Madison Cranmer \n(PT Sans Caption Bold 36 pt.)\n"
+    "string": "Madison Cranmer \n(PT Sans Caption Bold 48 pt.)\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -97,12 +122,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 64,
-    "width": 356,
-    "x": 11,
-    "y": 260
+    "height": 77,
+    "width": 422,
+    "x": 112,
+    "y": 14
   },
-  "glyphBounds": "{{0, 6}, {308, 50}}",
+  "glyphBounds": "{{0, 8}, {411, 62}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -135,7 +160,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 36
+            "size": 48
           }
         },
         "paragraphStyle": {
