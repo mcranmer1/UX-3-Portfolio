@@ -103,6 +103,34 @@
     {
       "class": "symbolInstance",
       "id": "C0DDB6FE-4AC3-46A1-AAD0-8C8B9BA8E426"
+    },
+    {
+      "class": "bitmap",
+      "id": "33192244-4ECD-4FCA-8C98-CDD201798426"
+    },
+    {
+      "class": "bitmap",
+      "id": "C60A1321-1DCF-40D0-B81F-14346D5E799C"
+    },
+    {
+      "class": "bitmap",
+      "id": "56BCE413-F03B-4034-B220-3C84E81086C4"
+    },
+    {
+      "class": "bitmap",
+      "id": "59A83AD7-1C84-424A-BAA1-C64E6C7E7C74"
+    },
+    {
+      "class": "text",
+      "id": "B5B9B417-FEEB-418E-BBCA-3732BE4568F8"
+    },
+    {
+      "class": "bitmap",
+      "id": "8EF93368-97BC-4E22-B232-D8DDE0D31EAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "FC788ECB-287F-4BD8-B37D-43D3DF2830F7"
     }
   ],
   "name": "Letter",
