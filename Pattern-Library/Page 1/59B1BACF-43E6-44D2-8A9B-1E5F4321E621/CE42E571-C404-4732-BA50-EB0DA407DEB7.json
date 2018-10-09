@@ -20,6 +20,10 @@
               "size": 12
             }
           },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 445,
@@ -46,8 +50,8 @@
     "constrainProportions": false,
     "height": 113,
     "width": 346,
-    "x": 101,
-    "y": 230
+    "x": 356,
+    "y": 342
   },
   "glyphBounds": "{{0, 3}, {343, 102}}",
   "isFixedToViewport": false,
@@ -65,8 +69,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5FF63F29-5C17-4C8B-9F80-4E3E6CDAF551",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "2ED6AA96-D70B-462C-9FAD-B5E02D7AC54E",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -84,6 +90,10 @@
             "name": "Charter-Roman",
             "size": 12
           }
+        },
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

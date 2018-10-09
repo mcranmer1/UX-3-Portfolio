@@ -1,7 +1,7 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "F96E3123-4829-4A01-9EB3-B209C74D805A",
+  "do_objectID": "E244B383-7DF2-4584-8E5B-CFAB82DB5DC0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 30,
-    "width": 107,
-    "x": 492,
-    "y": 479
+    "height": 25,
+    "width": 25,
+    "x": 410,
+    "y": 556
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -26,7 +26,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/2",
+  "name": "icons",
   "nameIsFixed": false,
   "overrideValues": [
   ],
@@ -42,6 +42,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5E1FD0EA-5EA4-4EE4-B87B-D2516E358F2D",
+  "symbolID": "5F1F478A-97B5-451D-98C6-F12E20CE9F85",
   "verticalSpacing": 0
 }

@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "00CCCC84-1CCB-478D-B0BA-4D946DA7FD24",
+  "do_objectID": "0D5577C6-3213-40E2-9E54-7BC96F0A9F9B",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0716B414-05C0-4349-9AAF-54542C82623A",
+    "do_objectID": "DA9FE7A4-6B92-455D-A21F-84BC64361F20",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "911245E2-DB37-416D-AB28-21EFF03937C9",
-    "height": 32.93878820612426,
-    "width": 79.62972577532017,
-    "x": 622,
-    "y": 153
+    "do_objectID": "161B3D3D-EE0B-4330-806E-62C48B532F95",
+    "height": 64,
+    "width": 64,
+    "x": 184,
+    "y": 549
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,11 +32,11 @@
   "layerListExpandedType": 1,
   "layers": [
     {
-      "class": "shapePath",
-      "id": "7F9859A4-CB75-4259-942D-CDBB18FEB2FE"
+      "class": "rectangle",
+      "id": "DF925425-4FA7-448E-9BE6-2F82D6793BEC"
     }
   ],
-  "name": "Rectangle",
+  "name": "Rectangle 2 Copy 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,7 +60,7 @@
         "thickness": 1
       }
     ],
-    "do_objectID": "2A7B8A97-A125-4F85-B850-260F0D446F02",
+    "do_objectID": "EB1266B5-B346-47A7-9609-825CC373A8B8",
     "endMarkerType": 0,
     "fills": [
       {
@@ -68,9 +68,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.3686274509803922,
-          "green": 0.2549019607843137,
-          "red": 0.2705882352941177
+          "blue": 0.5618622448979592,
+          "green": 0.5618622448979592,
+          "red": 0.5618622448979592
         },
         "fillType": 0,
         "isEnabled": true,
@@ -81,28 +81,6 @@
       }
     ],
     "miterLimit": 10,
-    "shadows": [
-      {
-        "_class": "shadow",
-        "blurRadius": 4,
-        "color": {
-          "_class": "color",
-          "alpha": 0.5,
-          "blue": 0,
-          "green": 0,
-          "red": 0
-        },
-        "contextSettings": {
-          "_class": "graphicsContextSettings",
-          "blendMode": 0,
-          "opacity": 1
-        },
-        "isEnabled": true,
-        "offsetX": 5,
-        "offsetY": 2,
-        "spread": 0
-      }
-    ],
     "startMarkerType": 0,
     "windingRule": 1
   },

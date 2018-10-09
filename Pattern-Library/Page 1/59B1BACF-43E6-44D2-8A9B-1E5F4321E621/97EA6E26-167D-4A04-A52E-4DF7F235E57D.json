@@ -21,11 +21,12 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 6,
         "location": 0
       },
       {
@@ -46,12 +47,13 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 16
+        "location": 6
       },
       {
         "_class": "stringAttribute",
@@ -71,12 +73,13 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 29,
-        "location": 17
+        "location": 7
       },
       {
         "_class": "stringAttribute",
@@ -96,15 +99,16 @@
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 46
+        "location": 36
       }
     ],
-    "string": "Madison Cranmer \n(PT Sans Caption Bold 48 pt.)\n"
+    "string": "TITLE \n(PT Sans Caption Bold 48 pt.)\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -124,10 +128,10 @@
     "constrainProportions": false,
     "height": 77,
     "width": 422,
-    "x": 99,
-    "y": 20
+    "x": 356,
+    "y": 94.3359375
   },
-  "glyphBounds": "{{0, 8}, {411, 62}}",
+  "glyphBounds": "{{0, 9}, {168, 61}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -135,7 +139,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Madison Cranmer (PT",
+  "name": "TITLE (PT Sans Capti",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -143,8 +147,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "0509EE75-8A41-4EBD-BD94-5B3401CC655F",
     "endMarkerType": 0,
     "miterLimit": 10,
+    "sharedObjectID": "76E54A06-86D2-4E0E-9F8F-577344D87F6F",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -164,7 +170,8 @@
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

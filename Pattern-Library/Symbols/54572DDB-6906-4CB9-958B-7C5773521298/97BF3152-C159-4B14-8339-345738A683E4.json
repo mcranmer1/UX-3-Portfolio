@@ -1,7 +1,8 @@
 {
-  "_class": "symbolInstance",
+  "_class": "bitmap",
   "booleanOperation": -1,
-  "do_objectID": "F96E3123-4829-4A01-9EB3-B209C74D805A",
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "97BF3152-C159-4B14-8339-345738A683E4",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -11,29 +12,32 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 30,
-    "width": 107,
-    "x": 492,
-    "y": 479
+    "constrainProportions": true,
+    "height": 25,
+    "width": 25,
+    "x": 0,
+    "y": 0
   },
-  "horizontalSpacing": 0,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/a7ed93fb764ed0c2b6f1f9a51b4ded7e6e22a5bc.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/2",
+  "name": "invision-logo-png-transparent",
   "nameIsFixed": false,
-  "overrideValues": [
-  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -41,7 +45,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "symbolID": "5E1FD0EA-5EA4-4EE4-B87B-D2516E358F2D",
-  "verticalSpacing": 0
+  }
 }

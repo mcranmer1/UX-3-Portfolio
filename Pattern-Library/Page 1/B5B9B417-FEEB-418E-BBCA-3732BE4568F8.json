@@ -9,61 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2627450980392156,
+            "green": 0.2274509803921569,
+            "red": 0.3803921568627451
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 22
+              "name": "Charter-Italic",
+              "size": 13
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
+            "_class": "paragraphStyle"
           },
-          "textStyleVerticalAlignmentKey": 0
+          "strikethroughStyle": 0,
+          "textStyleVerticalAlignmentKey": 0,
+          "underlineStyle": 1
         },
-        "length": 10,
+        "length": 20,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "PTSans-Caption",
-              "size": 12
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 29,
-        "location": 10
       }
     ],
-    "string": "Heading 1\n(PT Sans Caption Bold 22 pt.)"
+    "string": "www.madi-designs.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "10D325F4-B4CE-42B3-8A1F-8B6EFC69C877",
+  "do_objectID": "B5B9B417-FEEB-418E-BBCA-3732BE4568F8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "973872EB-65CE-49D3-8603-1AF75303E7EB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -74,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 45,
-    "width": 319,
-    "x": 356,
-    "y": 208
+    "do_objectID": "E8C6063A-0DB0-49C4-9D4D-CA313B89C7AE",
+    "height": 18,
+    "width": 139,
+    "x": 525,
+    "y": 72
   },
-  "glyphBounds": "{{0, 4}, {168, 36}}",
+  "glyphBounds": "{{0, 3}, {128, 13}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -87,7 +64,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Heading 1 (PT Sans C",
+  "name": "www.madi-designs.com",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -95,10 +72,10 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B13AE215-DAE1-42B8-B439-024E49393FC7",
+    "do_objectID": "CFF27CEF-7A43-482A-8148-C0651D51A22B",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "2A9E4869-AE38-47D7-9DB0-E8E6754F8162",
+    "sharedObjectID": "9848997F-522E-4745-AC33-DCE9A0A5B13E",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -106,22 +83,23 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2627450980392156,
+          "green": 0.2274509803921569,
+          "red": 0.3803921568627451
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTSans-CaptionBold",
-            "size": 22
+            "name": "Charter-Italic",
+            "size": 13
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle",
-          "alignment": 0
+          "_class": "paragraphStyle"
         },
-        "textStyleVerticalAlignmentKey": 0
+        "strikethroughStyle": 0,
+        "textStyleVerticalAlignmentKey": 0,
+        "underlineStyle": 1
       },
       "verticalAlignment": 0
     },

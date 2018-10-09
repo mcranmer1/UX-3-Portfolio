@@ -1,7 +1,15 @@
 {
-  "_class": "page",
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
   "booleanOperation": -1,
-  "do_objectID": "188EE8C4-A369-4777-9703-5EEA0D419B3F",
+  "changeIdentifier": 3,
+  "do_objectID": "54572DDB-6906-4CB9-958B-7C5773521298",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -14,11 +22,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0,
-    "width": 0,
-    "x": 0,
+    "height": 25,
+    "width": 25,
+    "x": 307,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -26,29 +35,29 @@
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "59B1BACF-43E6-44D2-8A9B-1E5F4321E621"
-    },
-    {
-      "class": "text",
-      "id": "B5B9B417-FEEB-418E-BBCA-3732BE4568F8"
+      "class": "bitmap",
+      "id": "97BF3152-C159-4B14-8339-345738A683E4"
     }
   ],
-  "name": "Page 1",
+  "name": "icons",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -56,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "5F1F478A-97B5-451D-98C6-F12E20CE9F85",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

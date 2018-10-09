@@ -45,44 +45,48 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "9970A866-1898-4E42-882E-CC2AC4E8DCF5"
+      "class": "text",
+      "id": "97EA6E26-167D-4A04-A52E-4DF7F235E57D"
     },
     {
       "class": "shapeGroup",
-      "id": "6709FB64-9DD3-48CB-BDFF-73352F6129D7"
+      "id": "3674C5EE-B554-4CAC-96E1-25FAC9C666C6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F96E3123-4829-4A01-9EB3-B209C74D805A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E244B383-7DF2-4584-8E5B-CFAB82DB5DC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "544379FD-C15D-4018-AFCD-C87D2C252A77"
     },
     {
       "class": "shapeGroup",
-      "id": "A290EF60-1257-4B69-BA2B-611BA45D1B1E"
+      "id": "7508F0D9-B343-4ED8-8A74-1D4CC3F9E4D6"
     },
     {
       "class": "shapeGroup",
-      "id": "9A55C5A7-212F-4381-A898-3F413E7E7758"
+      "id": "F827E98B-2748-4365-98CE-9749F2DD36EB"
     },
     {
       "class": "shapeGroup",
-      "id": "118547CC-3295-407E-8A47-355C557A9E24"
+      "id": "0D5577C6-3213-40E2-9E54-7BC96F0A9F9B"
     },
     {
       "class": "shapeGroup",
-      "id": "C0BF0682-4D16-48B8-B1E8-5B8C81D8FF8F"
+      "id": "90738D7F-5CF4-4DEF-9A6D-F3B08DFB1ADD"
     },
     {
       "class": "shapeGroup",
-      "id": "00CCCC84-1CCB-478D-B0BA-4D946DA7FD24"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "5FF5AE28-C32D-49AF-AC8C-1735AC033354"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "31D838C0-F7D6-47DF-A72C-8739C8BB141F"
+      "id": "8E7F34D7-7D37-4145-B34C-EDF9D1F1C933"
     },
     {
       "class": "text",
-      "id": "97EA6E26-167D-4A04-A52E-4DF7F235E57D"
+      "id": "CE42E571-C404-4732-BA50-EB0DA407DEB7"
     },
     {
       "class": "text",
@@ -93,24 +97,8 @@
       "id": "C4F7D1F5-7535-4C2D-B183-CD34BC89E872"
     },
     {
-      "class": "text",
-      "id": "CE42E571-C404-4732-BA50-EB0DA407DEB7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "54E953A1-2DEC-457D-9245-C0A3DDF40884"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3674C5EE-B554-4CAC-96E1-25FAC9C666C6"
-    },
-    {
       "class": "symbolInstance",
       "id": "C0DDB6FE-4AC3-46A1-AAD0-8C8B9BA8E426"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "F96E3123-4829-4A01-9EB3-B209C74D805A"
     }
   ],
   "name": "Letter",
