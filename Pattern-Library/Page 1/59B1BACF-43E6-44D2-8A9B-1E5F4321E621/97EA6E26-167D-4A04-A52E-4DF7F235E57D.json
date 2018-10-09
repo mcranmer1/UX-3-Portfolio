@@ -124,8 +124,8 @@
     "constrainProportions": false,
     "height": 77,
     "width": 422,
-    "x": 112,
-    "y": 14
+    "x": 99,
+    "y": 20
   },
   "glyphBounds": "{{0, 8}, {411, 62}}",
   "isFixedToViewport": false,
