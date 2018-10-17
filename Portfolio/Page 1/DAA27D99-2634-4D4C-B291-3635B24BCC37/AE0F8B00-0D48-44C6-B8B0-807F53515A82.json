@@ -1,0 +1,52 @@
+{
+  "_class": "bitmap",
+  "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
+  "do_objectID": "AE0F8B00-0D48-44C6-B8B0-807F53515A82",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "39537E32-B20B-40EC-B00C-08E4D4F54868",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "fillReplacesImage": false,
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "97C5AEEE-839B-4134-86D2-9497F1944066",
+    "height": 182,
+    "width": 178,
+    "x": 133,
+    "y": 354
+  },
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/fbb487c8e0f8751a5f2e209a327b97f78b186284.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 72,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "jose-alejandro-cuffia-799485-unsplash",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C367BB0E-202A-43B4-911F-29C14B7AE804",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
