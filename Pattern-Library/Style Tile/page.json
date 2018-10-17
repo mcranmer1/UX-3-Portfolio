@@ -39,8 +39,8 @@
       "id": "59B1BACF-43E6-44D2-8A9B-1E5F4321E621"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Style Tile",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
