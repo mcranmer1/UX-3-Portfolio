@@ -30,7 +30,7 @@
     "y": 677
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -46,7 +46,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "text",
@@ -66,14 +66,6 @@
     },
     {
       "class": "symbolInstance",
-      "id": "774B49FA-5C87-485B-929D-CD8F6B8AE769"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "401018AB-075A-477E-B2DE-E4602695DA45"
-    },
-    {
-      "class": "symbolInstance",
       "id": "E2FBD6D8-A071-402E-89A2-F4DB553917A5"
     },
     {
@@ -85,7 +77,7 @@
       "id": "46467256-CCF3-4C57-BE0C-D5B941569DB6"
     }
   ],
-  "name": "Intro Copy",
+  "name": "SPACED Research",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
