@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 22
+              "size": 48
             }
           },
           "paragraphStyle": {
@@ -26,19 +26,71 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 27,
+        "length": 16,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PTSans-CaptionBold",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 16
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PTSans-Caption",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 17
       }
     ],
-    "string": "Graphic and UX/UI Designer\n"
+    "string": "Madison Cranmer \n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "D2651102-955B-484C-A794-4AAF54E7A9DC",
+  "do_objectID": "78B6845B-62A4-4A9D-97FD-4AF821C3F338",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "5F2C110D-9165-4531-B03A-8679265F5A58",
+    "do_objectID": "F488378B-85C8-40FA-BF67-14DD72E733CE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,13 +101,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EC95EF09-6913-461C-BE2A-83DF18CE4C1F",
-    "height": 45,
-    "width": 319,
-    "x": 358,
-    "y": 157
+    "do_objectID": "ECBA93E1-85C5-45E9-A9FF-2C1837A43F91",
+    "height": 77,
+    "width": 422,
+    "x": 336,
+    "y": 37
   },
-  "glyphBounds": "{{0, 4}, {300, 21}}",
+  "glyphBounds": "{{0, 8}, {411, 90}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -63,7 +115,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Graphic and UX/UI De",
+  "name": "Madison Cranmer",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -71,14 +123,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "FA1D28CF-288A-45B6-941A-2A656FBDEF65",
+    "do_objectID": "49C282C9-F83E-4646-A4AB-4AC7ED505236",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
+    "sharedObjectID": "D1D06ADB-1431-47CD-85F4-1DFD55311ABD",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AB8865B7-7065-428F-A750-EAEE41031F9D",
+      "do_objectID": "1670F8FD-37C7-4FF9-9727-4B508A8A709A",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -91,7 +143,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 22
+            "size": 48
           }
         },
         "paragraphStyle": {

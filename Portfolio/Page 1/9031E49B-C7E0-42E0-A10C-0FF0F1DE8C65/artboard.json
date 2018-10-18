@@ -1,0 +1,117 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "0E737746-8C00-439A-9D62-D8640DDE98AB",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "do_objectID": "9031E49B-C7E0-42E0-A10C-0FF0F1DE8C65",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "279B0F0E-1AA8-478C-8418-3FFB792D78B8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4E24C54D-27A6-46A9-B574-EBF327CB6FF5",
+    "height": 612,
+    "width": 792,
+    "x": 32,
+    "y": 677
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3F3FF387-D389-4941-993D-75FF1C0D05E5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "98CB6035-3F2E-4B91-9D79-1EACC490B9DC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "01284E55-F732-4118-A700-184E991F37F7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6D1A6C1E-7629-4CA7-ADEA-D2EA4F88F171"
+    },
+    {
+      "class": "text",
+      "id": "34B5C730-7679-4572-B63C-A7DBBF5ECB2F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "774B49FA-5C87-485B-929D-CD8F6B8AE769"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "401018AB-075A-477E-B2DE-E4602695DA45"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E2FBD6D8-A071-402E-89A2-F4DB553917A5"
+    },
+    {
+      "class": "bitmap",
+      "id": "D3006A57-0CAC-43A1-B2A8-2EA57DD8BDFF"
+    },
+    {
+      "class": "text",
+      "id": "46467256-CCF3-4C57-BE0C-D5B941569DB6"
+    }
+  ],
+  "name": "Intro Copy",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 612,
+    "name": "Letter",
+    "offersLandscapeVariant": 1,
+    "width": 792
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5F08A862-4049-4BFE-B810-550B0E7D4680",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "617C48E6-0F6B-4C8E-AB73-8A0A1C82DE8E",
+    "guides": [
+    ]
+  }
+}

@@ -2,10 +2,10 @@
   "_class": "shapeGroup",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2AE3C980-A767-4E81-8132-A67AEB0914AA",
+  "do_objectID": "CD5692C2-90BC-4F3C-A4CC-D5DE5CAA05D0",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EA44CF6B-856B-47D2-97AA-A268379CCCE6",
+    "do_objectID": "3B41794F-7EAD-44C6-A2D7-DD0D54CDE7EB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "39E3A614-1344-4415-A4A2-19D2B82B97E2",
+    "do_objectID": "231091F2-AD9D-4884-8422-180E99C1581B",
     "height": 3,
     "width": 418,
-    "x": 357,
-    "y": 144
+    "x": 338,
+    "y": 87
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -33,7 +33,7 @@
   "layers": [
     {
       "class": "shapePath",
-      "id": "E58106EA-DF5D-4758-A9DC-449CDBC349A8"
+      "id": "0E7EA207-1920-48D0-B503-45D758E30BBD"
     }
   ],
   "name": "Line",
@@ -48,7 +48,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "55A4727D-A6A6-41F1-81BF-14915848D743",
+      "do_objectID": "2E01637C-FB30-45CE-97C0-628B5C42AE90",
       "isEnabled": false,
       "lineCapStyle": 2,
       "lineJoinStyle": 0
@@ -69,7 +69,7 @@
         "thickness": 3
       }
     ],
-    "do_objectID": "B1D84898-5E14-4395-A010-F2B0ADFA80B4",
+    "do_objectID": "6A5D8683-A199-45EB-B622-0C5564A273FF",
     "endMarkerType": 0,
     "fills": [
       {

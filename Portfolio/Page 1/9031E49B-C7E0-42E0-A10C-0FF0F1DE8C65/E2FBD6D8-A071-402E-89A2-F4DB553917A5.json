@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "A4638D7E-D5C2-4342-B3B9-FF0F2706BAEF",
+  "do_objectID": "E2FBD6D8-A071-402E-89A2-F4DB553917A5",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2CE798A0-C3AC-4CFC-B77C-456EEE9AEEC7",
+    "do_objectID": "10405A70-418B-4922-895F-CFFB32A77A85",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "785BC420-89E1-4228-B5B0-E81A64FFD340",
-    "height": 25,
-    "width": 25,
-    "x": 399,
-    "y": 549
+    "do_objectID": "D839EF2A-B56C-43E3-B569-84C45A7F25A4",
+    "height": 30,
+    "width": 107,
+    "x": 649,
+    "y": 437
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,18 +28,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icons copy",
+  "name": "button/1 copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "053F4259-CA3E-4E58-AE31-43961F0063C9",
-      "overrideName": "97BF3152-C159-4B14-8339-345738A683E4_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/d3ff45864b23bfa4b66775bcb20ff96ba2fef878.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
+      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
+      "value": "InVision"
     }
   ],
   "resizingConstraint": 63,
@@ -49,12 +45,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D7828F62-82C5-4C6C-A724-A49229875613",
+    "do_objectID": "85BD277F-F3D6-4E04-BC90-1D3F6DB97832",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5F1F478A-97B5-451D-98C6-F12E20CE9F85",
+  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
   "verticalSpacing": 0
 }

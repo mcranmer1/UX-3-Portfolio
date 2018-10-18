@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "2579C720-C96B-42C0-B0F8-21D37B07642B",
+  "do_objectID": "774B49FA-5C87-485B-929D-CD8F6B8AE769",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "EDDFE9E2-3AE2-4573-B532-16239E28CF1C",
+    "do_objectID": "35B2B1AA-C8AE-4DFF-9BC0-9181C0B3FE8C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "E89AB10A-EB43-4F1A-B50B-3D5C33195CD5",
-    "height": 25,
-    "width": 25,
-    "x": 367,
-    "y": 549
+    "do_objectID": "39FCB5D5-1011-4B43-BDE1-A819D261F539",
+    "height": 30,
+    "width": 107,
+    "x": 491,
+    "y": 437
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icons",
+  "name": "button/1",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
+      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
+      "value": "GitHub"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,12 +45,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B08D9472-B326-462D-B8E4-87042770EFC2",
+    "do_objectID": "E91EA4AD-1291-4895-9309-1F44FB4D1487",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5F1F478A-97B5-451D-98C6-F12E20CE9F85",
+  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
   "verticalSpacing": 0
 }

@@ -1,10 +1,10 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "D67BA4BE-D7BB-42C5-AF00-8F28C7FEB446",
+  "do_objectID": "3812C3E2-B7B0-4B30-B584-8F46A567E0CC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B5FD6B4D-08BD-4C53-8E41-066C262CE1DB",
+    "do_objectID": "804E7865-19CF-49FE-9682-B22C784DC9C6",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,11 +15,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "091DE22A-3449-41ED-AD59-12693D51947F",
+    "do_objectID": "3235840C-DC9A-4291-8F29-6B9FE5F61EC6",
     "height": 30,
     "width": 107,
-    "x": 488,
-    "y": 497
+    "x": 649,
+    "y": 437
   },
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
@@ -28,9 +28,15 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/2",
+  "name": "button/1 copy",
   "nameIsFixed": false,
   "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
+      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
+      "value": "InVision"
+    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -39,12 +45,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F41C24AC-7261-47F2-9896-1603FF169DD0",
+    "do_objectID": "C32CCE21-40B8-4FE0-B7A5-01B18F5A764F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5E1FD0EA-5EA4-4EE4-B87B-D2516E358F2D",
+  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
   "verticalSpacing": 0
 }

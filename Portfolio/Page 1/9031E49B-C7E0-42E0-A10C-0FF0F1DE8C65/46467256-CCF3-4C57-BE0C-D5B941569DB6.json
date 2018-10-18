@@ -9,37 +9,36 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2627450980392156,
-            "green": 0.2274509803921569,
-            "red": 0.3803921568627451
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Italic",
-              "size": 13
+              "name": "PTSans-CaptionBold",
+              "size": 16
             }
           },
           "paragraphStyle": {
-            "_class": "paragraphStyle"
+            "_class": "paragraphStyle",
+            "alignment": 0
           },
-          "strikethroughStyle": 0,
-          "textStyleVerticalAlignmentKey": 0,
-          "underlineStyle": 1
+          "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 15,
         "location": 0
       }
     ],
-    "string": "www.madi-designs.com"
+    "string": "Getting Started"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "F2DD7DBD-0363-4186-9280-796704961F4A",
+  "do_objectID": "46467256-CCF3-4C57-BE0C-D5B941569DB6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "842C5BAC-F69F-4F7E-9044-03FE9B274864",
+    "do_objectID": "B5E14CDB-FDBE-492F-871A-F1791F5C5F85",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "646E1A79-2E09-4D42-AC2F-EDD296BC8081",
-    "height": 18,
-    "width": 139,
-    "x": 358,
-    "y": 192
+    "do_objectID": "CDAEAF17-E353-4F41-80FB-9F0620A33D11",
+    "height": 247,
+    "width": 425,
+    "x": 336,
+    "y": 141
   },
-  "glyphBounds": "{{0, 3}, {128, 13}}",
+  "glyphBounds": "{{0, 2}, {120, 16}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -64,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "www.madi-designs.com",
+  "name": "Getting Started",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -72,35 +71,33 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8465FD1B-2D01-4AEA-9632-8A03F4A4678B",
+    "do_objectID": "B96AC9BF-4D44-43AA-BE3E-BFD9BFBCB253",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "AC9C3EA4-4123-4B65-9EB6-43AA7A2B5341",
+    "sharedObjectID": "568AF641-7F10-47E4-AF7F-442B1C9D9764",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "EAC7E0BD-EAA9-48B0-A661-FA9A2642B2F8",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2627450980392156,
-          "green": 0.2274509803921569,
-          "red": 0.3803921568627451
+          "blue": 0.2196078431372549,
+          "green": 0.1058823529411764,
+          "red": 0.05490196078431372
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Italic",
-            "size": 13
+            "name": "PTSans-CaptionBold",
+            "size": 16
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
-        "strikethroughStyle": 0,
-        "textStyleVerticalAlignmentKey": 0,
-        "underlineStyle": 1
+        "textStyleVerticalAlignmentKey": 0
       },
       "verticalAlignment": 0
     },

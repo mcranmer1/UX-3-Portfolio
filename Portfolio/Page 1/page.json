@@ -36,7 +36,19 @@
   "layers": [
     {
       "class": "artboard",
-      "id": "DAA27D99-2634-4D4C-B291-3635B24BCC37"
+      "id": "3ABE8844-90EC-42F9-947C-FA0AC5888C82"
+    },
+    {
+      "class": "artboard",
+      "id": "9031E49B-C7E0-42E0-A10C-0FF0F1DE8C65"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "2579C720-C96B-42C0-B0F8-21D37B07642B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A4638D7E-D5C2-4342-B3B9-FF0F2706BAEF"
     }
   ],
   "name": "Page 1",

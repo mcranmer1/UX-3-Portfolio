@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 16,
+        "length": 15,
         "location": 0
       },
       {
@@ -53,7 +53,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 16
+        "location": 15
       },
       {
         "_class": "stringAttribute",
@@ -79,18 +79,18 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 17
+        "location": 16
       }
     ],
-    "string": "Madison Cranmer \n\n"
+    "string": "SPACED Website \n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "E5B35A05-ED5C-462B-BACE-C4EEAD249AA4",
+  "do_objectID": "98CB6035-3F2E-4B91-9D79-1EACC490B9DC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9CCA11D8-305B-4C13-AB08-F8ECF1B64CE0",
+    "do_objectID": "9967E6B3-800F-4E51-BAA9-4CA89F85B499",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -101,13 +101,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EDF711C9-5E68-4F81-86FB-CD06AA9DC5C0",
-    "height": 77,
+    "do_objectID": "3EC2DD38-9DAC-4857-BF80-BB062641418C",
+    "height": 45,
     "width": 422,
-    "x": 355,
-    "y": 94
+    "x": 336,
+    "y": 37
   },
-  "glyphBounds": "{{0, 8}, {411, 90}}",
+  "glyphBounds": "{{0, 8}, {369, 90}}",
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -115,7 +115,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Madison Cranmer",
+  "name": "SPACED Website",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -123,14 +123,14 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "91C60BDD-A25E-43E8-8FB2-50574A631A41",
+    "do_objectID": "6D91E5ED-57EE-4B22-AD46-32A53E4CDA7E",
     "endMarkerType": 0,
     "miterLimit": 10,
     "sharedObjectID": "D1D06ADB-1431-47CD-85F4-1DFD55311ABD",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "968D6DC6-3A1B-416D-A890-79CCCF1EEBBA",
+      "do_objectID": "DF816E5A-2ED2-4E73-9BE0-F7CC7E1EFEF7",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
