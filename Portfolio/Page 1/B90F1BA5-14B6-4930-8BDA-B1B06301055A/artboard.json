@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "000BEED3-626E-46AA-987A-F2025DA65C96",
+    "do_objectID": "55F823A9-BEED-4445-8529-2DD90E614FC7",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3ABE8844-90EC-42F9-947C-FA0AC5888C82",
+  "do_objectID": "B90F1BA5-14B6-4930-8BDA-B1B06301055A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "481E6933-D7E6-4DE3-9FBA-4CCBCF779DD1",
+    "do_objectID": "93E793C5-50F0-45CE-AF39-EB13BE5CC4AB",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4E60B275-E1A9-4BBF-9840-EE9C247E4062",
+    "do_objectID": "C3BF2328-28B7-47CC-87A2-2C9B30E6D969",
     "height": 3300,
     "width": 5100,
     "x": 32,
-    "y": 26
+    "y": 7044
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "75D1ADFB-0AD9-4A19-9676-2035EA7741C6",
+    "do_objectID": "BE5A4D18-8160-44C7-A977-90E44FE95D10",
     "guides": [
     ]
   },
@@ -48,48 +48,41 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "47E38FBC-F108-4A8D-A75E-CDEECED85CF8"
-    },
-    {
-      "class": "text",
-      "id": "839F228D-0754-4563-89B4-C9E5FA8BD195"
-    },
-    {
-      "class": "bitmap",
-      "id": "DA28C260-E2FA-40D7-BBEB-2617AB92BEFC"
-    },
-    {
       "class": "rectangle",
-      "id": "25BA9119-F6F9-4916-8203-2B1F107EE540"
+      "id": "C6EEB36F-6F20-423A-B2F2-E3B3FB9F1B55"
     },
     {
       "class": "text",
-      "id": "CD621CB0-2390-43C3-B096-9D7A029D53F6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B5255F66-FAE6-462E-A9A1-177B714ED34D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C9FA921B-B760-43CF-ABD5-E55A370725D2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4B396BF3-4F7A-43C1-BAC5-BFC6E04E7705"
+      "id": "31B78602-604B-46E9-9C1B-DC849604459C"
     },
     {
       "class": "text",
-      "id": "35AA0F72-0526-4FB3-B651-C8CB662E945D"
+      "id": "447DE5CE-3D37-4E10-82FF-BCD402034A26"
+    },
+    {
+      "class": "text",
+      "id": "609125E7-F6B1-459B-9C23-1133473E47E3"
+    },
+    {
+      "class": "text",
+      "id": "25F5B903-A7B5-416E-964E-0214F2D1220A"
+    },
+    {
+      "class": "text",
+      "id": "6E1E6DFA-610B-483E-A735-712CBE90479D"
+    },
+    {
+      "class": "text",
+      "id": "2C1441C8-0A0B-440E-960A-B2691045FD69"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 60,
+    "do_objectID": "C2873AAE-8DB7-47C7-8979-E9980CD074E7",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -102,7 +95,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Intro",
+  "name": "SPACED Copy",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -118,7 +111,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "2B2B83A7-75D0-4B7B-9BDA-0F635F6483ED",
+    "do_objectID": "7BC02CE3-72AC-44CE-94E8-CC39B205549F",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -127,7 +120,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "725B5077-DBD2-474D-9DB2-0A6ABB3E9A62",
+    "do_objectID": "0ED184D9-B34C-41F5-84FE-A3B3774FDDFE",
     "guides": [
     ]
   }

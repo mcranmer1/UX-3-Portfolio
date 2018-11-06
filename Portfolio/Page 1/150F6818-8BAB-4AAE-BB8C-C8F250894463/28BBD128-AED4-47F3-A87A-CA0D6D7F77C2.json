@@ -22,46 +22,22 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 213,
+        "length": 169,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Charter-Roman",
-              "size": 50
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 213
       }
     ],
-    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\n\n\r\n"
+    "string": "SPACED\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5B80AFC-6789-402B-8E6A-4FF622121E08",
+  "do_objectID": "28BBD128-AED4-47F3-A87A-CA0D6D7F77C2",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -75,12 +51,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 372,
-    "width": 1972,
-    "x": 186,
-    "y": 442
+    "height": 1242,
+    "width": 1314,
+    "x": 862,
+    "y": 884
   },
-  "glyphBounds": "{{0, 16}, {1911, 543}}",
+  "glyphBounds": "{{-1, 48}, {1258, 902}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,16 +65,14 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Design is self-expre",
+  "name": "SPACED April 2018 -",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1E8B486-56AF-4F17-BCB8-78D8E060D989",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -121,7 +95,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 140,
+          "minimumLineHeight": 140
         },
         "textStyleVerticalAlignmentKey": 0
       },

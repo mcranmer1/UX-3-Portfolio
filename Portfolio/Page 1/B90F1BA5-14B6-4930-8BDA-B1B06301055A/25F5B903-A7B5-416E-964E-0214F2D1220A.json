@@ -22,49 +22,26 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 213,
+        "length": 109,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Charter-Roman",
-              "size": 50
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 213
       }
     ],
-    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\n\n\r\n"
+    "string": "SPACED\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5B80AFC-6789-402B-8E6A-4FF622121E08",
+  "do_objectID": "25F5B903-A7B5-416E-964E-0214F2D1220A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "5ECD016D-DF0E-4448-B17E-C9990EAA2C10",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,12 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 372,
-    "width": 1972,
-    "x": 186,
-    "y": 442
+    "do_objectID": "EADF3305-48CF-448D-B585-2DC85B2E420B",
+    "height": 570,
+    "width": 1314,
+    "x": 2180,
+    "y": 2447
   },
-  "glyphBounds": "{{0, 16}, {1911, 543}}",
+  "glyphBounds": "{{-1, 48}, {1258, 468}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,21 +67,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Design is self-expre",
+  "name": "SPACED April 2018 -",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1E8B486-56AF-4F17-BCB8-78D8E060D989",
+    "do_objectID": "C18FDAB1-6650-44FB-8E92-C1FC6F725EC7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "676F9248-6763-4BAD-A2C0-E15865518266",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -121,7 +99,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 140,
+          "minimumLineHeight": 140
         },
         "textStyleVerticalAlignmentKey": 0
       },

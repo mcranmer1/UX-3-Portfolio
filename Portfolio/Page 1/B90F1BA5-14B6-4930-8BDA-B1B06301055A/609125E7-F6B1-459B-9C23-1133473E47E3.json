@@ -22,11 +22,13 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 213,
+        "length": 82,
         "location": 0
       },
       {
@@ -48,23 +50,26 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 213
+        "location": 82
       }
     ],
-    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\n\n\r\n"
+    "string": "Client Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5B80AFC-6789-402B-8E6A-4FF622121E08",
+  "do_objectID": "609125E7-F6B1-459B-9C23-1133473E47E3",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CD5DCBD4-3178-4DA9-B42E-40BBAFF6AE47",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,12 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 372,
-    "width": 1972,
-    "x": 186,
-    "y": 442
+    "do_objectID": "381DE9F5-FF7C-4816-B56D-18C2E66FC65C",
+    "height": 395,
+    "width": 621,
+    "x": 1559,
+    "y": 2447
   },
-  "glyphBounds": "{{0, 16}, {1911, 543}}",
+  "glyphBounds": "{{0, 44}, {473, 751}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Design is self-expre",
+  "name": "Client Name: Timefra",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -98,12 +104,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1E8B486-56AF-4F17-BCB8-78D8E060D989",
+    "do_objectID": "ED9426FA-3E57-4410-A112-F045E33B0B15",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B2BCC511-F5A3-4D65-9A7E-C68757474C3D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -121,7 +128,9 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 140,
+          "minimumLineHeight": 140
         },
         "textStyleVerticalAlignmentKey": 0
       },

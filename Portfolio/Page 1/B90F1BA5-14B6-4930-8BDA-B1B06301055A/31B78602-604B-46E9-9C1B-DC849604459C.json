@@ -16,8 +16,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 68
+              "name": "PTSans-CaptionBold",
+              "size": 150
             }
           },
           "paragraphStyle": {
@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 213,
+        "length": 14,
         "location": 0
       },
       {
@@ -35,15 +35,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 50
+              "name": "PTSans-CaptionBold",
+              "size": 100
             }
           },
           "paragraphStyle": {
@@ -52,19 +52,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
-        "location": 213
+        "length": 1,
+        "location": 14
       }
     ],
-    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\n\n\r\n"
+    "string": "SPACED Website\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C5B80AFC-6789-402B-8E6A-4FF622121E08",
+  "do_objectID": "31B78602-604B-46E9-9C1B-DC849604459C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6AEB9B89-6A74-4A54-A095-FA397AD9EB5F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -75,12 +76,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 372,
-    "width": 1972,
-    "x": 186,
-    "y": 442
+    "do_objectID": "7C526C16-EB45-4E38-89F2-C91CAC19C901",
+    "height": 167,
+    "width": 1960,
+    "x": 167,
+    "y": 2407
   },
-  "glyphBounds": "{{0, 16}, {1911, 543}}",
+  "glyphBounds": "{{4, 27}, {1148, 111}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,21 +91,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Design is self-expre",
+  "name": "SPACED Website",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
+  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "B1E8B486-56AF-4F17-BCB8-78D8E060D989",
+    "do_objectID": "23F63AE0-BEDB-4F04-B632-B894A52A2F55",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "7264816B-19F3-4ACF-896E-C9EC8E7B3F00",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -115,8 +118,8 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 68
+            "name": "PTSans-CaptionBold",
+            "size": 150
           }
         },
         "paragraphStyle": {
