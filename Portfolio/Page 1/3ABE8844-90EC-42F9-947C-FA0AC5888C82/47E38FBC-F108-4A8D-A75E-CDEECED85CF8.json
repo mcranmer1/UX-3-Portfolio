@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 100
+              "size": 300
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,72 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 24,
+        "length": 20,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PTSans-CaptionBold",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 20
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0,
+            "green": 0,
+            "red": 0
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "PTSans-Caption",
+              "size": 36
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 21
       }
     ],
-    "string": "Graphic and UX Designer\n"
+    "string": "I am Madison Cranmer\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "839F228D-0754-4563-89B4-C9E5FA8BD195",
+  "do_objectID": "47E38FBC-F108-4A8D-A75E-CDEECED85CF8",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B3EF3154-10EC-4BF4-97DE-C76B773FF603",
+    "do_objectID": "D216A454-A7F5-4C1B-973D-8BAA47DFCC09",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +102,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "58DA84F2-D8B1-40AB-BC9C-80ACBD1C0779",
-    "height": 128,
-    "width": 1280,
-    "x": 169,
-    "y": 1428
+    "do_objectID": "9285560B-0192-486A-B6D2-F741CF4F18E9",
+    "height": 329,
+    "width": 3803,
+    "x": 166,
+    "y": 1049.25
   },
-  "glyphBounds": "{{4, 18}, {1202, 93}}",
+  "glyphBounds": "{{0, 55}, {3301, 340}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,35 +117,35 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Graphic and UX Desig",
+  "name": "I am Madison Cranmer",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
+  "sharedStyleID": "D1D06ADB-1431-47CD-85F4-1DFD55311ABD",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5E0B5B9E-472A-400E-93CE-A18FFBF26D15",
+    "do_objectID": "AE831095-3C98-4C1D-86B1-C35B80EB9CC9",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "6B7008F1-6724-4D9D-9D43-A9237167B26B",
+      "do_objectID": "04A48184-2DF6-4341-84F4-A50B42E2EFDC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2196078431372549,
-          "green": 0.1058823529411764,
-          "red": 0.05490196078431372
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 100
+            "size": 300
           }
         },
         "paragraphStyle": {

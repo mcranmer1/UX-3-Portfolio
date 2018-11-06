@@ -2,6 +2,7 @@
   "_class": "bitmap",
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
+  "clippingMaskMode": 0,
   "do_objectID": "DA28C260-E2FA-40D7-BBEB-2617AB92BEFC",
   "exportOptions": {
     "_class": "exportOptions",
@@ -18,11 +19,12 @@
     "_class": "rect",
     "constrainProportions": true,
     "do_objectID": "7C959C26-AA75-4928-9C97-189729CC94B2",
-    "height": 208,
-    "width": 312,
-    "x": 0,
-    "y": 408
+    "height": 1334,
+    "width": 2002,
+    "x": 2915,
+    "y": 1798
   },
+  "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
     "_ref": "images/10bcd1bed521336a63e9577b5abd805249199e3b.png",

@@ -1,10 +1,11 @@
 {
   "_class": "symbolInstance",
   "booleanOperation": -1,
-  "do_objectID": "A4638D7E-D5C2-4342-B3B9-FF0F2706BAEF",
+  "clippingMaskMode": 0,
+  "do_objectID": "4B396BF3-4F7A-43C1-BAC5-BFC6E04E7705",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "2CE798A0-C3AC-4CFC-B77C-456EEE9AEEC7",
+    "do_objectID": "6179C035-9BE1-415F-932F-2208CC96ECF3",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,12 +16,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "785BC420-89E1-4228-B5B0-E81A64FFD340",
-    "height": 25,
-    "width": 25,
-    "x": 863,
-    "y": 314
+    "do_objectID": "34B73519-55B9-40EA-A2F4-6D5815E85415",
+    "height": 107,
+    "width": 626,
+    "x": 174,
+    "y": 2661
   },
+  "hasClippingMask": false,
   "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -28,18 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "icons copy",
+  "name": "button/1 copy 2",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "053F4259-CA3E-4E58-AE31-43961F0063C9",
-      "overrideName": "97BF3152-C159-4B14-8339-345738A683E4_image",
-      "value": {
-        "_class": "MSJSONFileReference",
-        "_ref": "images/d3ff45864b23bfa4b66775bcb20ff96ba2fef878.png",
-        "_ref_class": "MSImageData"
-      }
+      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
+      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
+      "value": "Website"
     }
   ],
   "resizingConstraint": 63,
@@ -49,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "D7828F62-82C5-4C6C-A724-A49229875613",
+    "do_objectID": "8F5AFC68-6F9B-484A-A6B2-FE631AC1CF07",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "5F1F478A-97B5-451D-98C6-F12E20CE9F85",
+  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
   "verticalSpacing": 0
 }

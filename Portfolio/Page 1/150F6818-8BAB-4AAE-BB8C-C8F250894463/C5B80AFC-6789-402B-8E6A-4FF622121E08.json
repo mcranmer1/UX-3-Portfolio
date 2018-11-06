@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
               "name": "Charter-Roman",
-              "size": 12
+              "size": 68
             }
           },
           "paragraphStyle": {
@@ -26,14 +26,41 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 946,
+        "length": 515,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 50
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2,
+        "location": 515
       }
     ],
-    "string": "To me, design is a way of self-expression and every piece that I create, research, and explore is reflected in my work. I have always been drawn to design ever since I was little, doodling on the side of my homework, eager to get my hands dirty in art classes, and jumping at opportunities to learn something new. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\nAs a UX Designer I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design cannot only be successful with how it looks, it is equally important to see how someone will interact and feel about your design. \r\n\r\nIn the future I hope to create innovative design and provoke change/awareness to people viewing my work. I am a hard worker that strives to learn and absorb as much information as possible to improve myself as a designer. Are you with me?"
+    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\nAs a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design cannot only be successful with how it looks, it is equally important to see how someone will interact and feel about your design. \r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "C5B80AFC-6789-402B-8E6A-4FF622121E08",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,12 +75,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 247,
-    "width": 425,
-    "x": 336,
-    "y": 145
+    "height": 834,
+    "width": 1972,
+    "x": 186,
+    "y": 499
   },
-  "glyphBounds": "{{-1, 3}, {425, 235}}",
+  "glyphBounds": "{{-1, 16}, {1944, 813}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -61,18 +89,18 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "To me, design is a w",
+  "name": "Design is self-expre",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
     "do_objectID": "B1E8B486-56AF-4F17-BCB8-78D8E060D989",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -80,15 +108,15 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2196078431372549,
-          "green": 0.1058823529411764,
-          "red": 0.05490196078431372
+          "blue": 1,
+          "green": 1,
+          "red": 1
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
             "name": "Charter-Roman",
-            "size": 12
+            "size": 68
           }
         },
         "paragraphStyle": {

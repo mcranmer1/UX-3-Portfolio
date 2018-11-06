@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": 0,
+  "clippingMaskMode": 0,
   "do_objectID": "e538c840-d23a-11e8-b123-cd5d59f890c2",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": -333,
@@ -40,15 +42,11 @@
     },
     {
       "class": "artboard",
-      "id": "9031E49B-C7E0-42E0-A10C-0FF0F1DE8C65"
+      "id": "150F6818-8BAB-4AAE-BB8C-C8F250894463"
     },
     {
-      "class": "symbolInstance",
-      "id": "2579C720-C96B-42C0-B0F8-21D37B07642B"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A4638D7E-D5C2-4342-B3B9-FF0F2706BAEF"
+      "class": "shapePath",
+      "id": "5AA1729B-EA94-427A-B356-968A11AC1D6E"
     }
   ],
   "name": "Page 1",

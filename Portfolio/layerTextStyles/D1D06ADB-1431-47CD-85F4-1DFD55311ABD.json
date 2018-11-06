@@ -6,7 +6,6 @@
     "_class": "style",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D1D06ADB-1431-47CD-85F4-1DFD55311ABD",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
@@ -22,11 +21,12 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 48
+            "size": 300
           }
         },
         "paragraphStyle": {
-          "_class": "paragraphStyle"
+          "_class": "paragraphStyle",
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 48
+              "name": "Charter-Roman",
+              "size": 68
             }
           },
           "paragraphStyle": {
@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 507,
         "location": 0
       },
       {
@@ -42,8 +42,8 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 36
+              "name": "Charter-Roman",
+              "size": 50
             }
           },
           "paragraphStyle": {
@@ -52,45 +52,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
-        "location": 15
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "PTSans-Caption",
-              "size": 36
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 16
+        "length": 2,
+        "location": 507
       }
     ],
-    "string": "SPACED Website \n\n"
+    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this work and thrilled to have the ability to live out my dream. \r\n\r\nAs a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design cannot only be successful with how it looks, it is equally important to see how someone will interact and feel about your design. \r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
-  "do_objectID": "98CB6035-3F2E-4B91-9D79-1EACC490B9DC",
+  "clippingMaskMode": 0,
+  "do_objectID": "35AA0F72-0526-4FB3-B651-C8CB662E945D",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "9967E6B3-800F-4E51-BAA9-4CA89F85B499",
+    "do_objectID": "474923FF-1E03-4CBF-9019-2153EA2DBA81",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -101,13 +76,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "3EC2DD38-9DAC-4857-BF80-BB062641418C",
-    "height": 45,
-    "width": 422,
-    "x": 336,
-    "y": 37
+    "do_objectID": "1059F9DC-7B49-4140-A397-68B7E5C97A28",
+    "height": 834,
+    "width": 2002,
+    "x": 179,
+    "y": 1640
   },
-  "glyphBounds": "{{0, 8}, {369, 90}}",
+  "glyphBounds": "{{-1, 16}, {1980, 730}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -115,35 +91,35 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED Website",
+  "name": "Design is self-expre",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6D91E5ED-57EE-4B22-AD46-32A53E4CDA7E",
+    "do_objectID": "E0F8B21C-EE51-43BD-B67E-228100A7AEF4",
     "endMarkerType": 0,
     "miterLimit": 10,
-    "sharedObjectID": "D1D06ADB-1431-47CD-85F4-1DFD55311ABD",
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "DF816E5A-2ED2-4E73-9BE0-F7CC7E1EFEF7",
+      "do_objectID": "C0DA308D-86CD-4486-8D38-82BDBBC56C91",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.2196078431372549,
-          "green": 0.1058823529411764,
-          "red": 0.05490196078431372
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTSans-CaptionBold",
-            "size": 48
+            "name": "Charter-Roman",
+            "size": 68
           }
         },
         "paragraphStyle": {

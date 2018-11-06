@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 12
+              "size": 50
             }
           },
           "paragraphStyle": {
@@ -34,6 +34,7 @@
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
@@ -48,12 +49,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 14,
-    "width": 85,
-    "x": 11,
-    "y": 8
+    "height": 59,
+    "width": 312,
+    "x": 167,
+    "y": 21
   },
-  "glyphBounds": "{{23, 2}, {39, 10}}",
+  "glyphBounds": "{{75, 9}, {161, 37}}",
+  "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -86,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 12
+            "size": 50
           }
         },
         "paragraphStyle": {
