@@ -4,13 +4,15 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "16BAD5CB-3CC2-4ADA-B4A0-795FB9403DEF",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "59B1BACF-43E6-44D2-8A9B-1E5F4321E621",
+  "do_objectID": "28FFF411-9A46-4869-8DEF-38159745CDFE",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "110FE84F-B873-46A8-9780-AC893B7F182A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -21,16 +23,18 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "3A12ECB1-1222-4A44-9D27-A9864AB5AA24",
     "height": 3300,
     "width": 5100,
     "x": 0,
-    "y": 0
+    "y": 11165
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "25F32CC0-B055-45DB-A1A2-7113245899C7",
     "guides": [
     ]
   },
@@ -46,14 +50,14 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "3674C5EE-B554-4CAC-96E1-25FAC9C666C6"
+      "id": "D8481799-EC17-4AEA-BC90-F037ED8B6A38"
     },
     {
       "class": "text",
-      "id": "18724A2A-9EDD-45E0-95EE-6ABC648EA1A0"
+      "id": "14785361-22D6-457C-8DA7-E0BAFB0AADF0"
     }
   ],
-  "name": "Letter",
+  "name": "Letter Copy 3",
   "nameIsFixed": false,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -69,6 +73,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "5F3014A0-67B1-4F78-9867-2A01490870DC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -77,6 +82,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "1FE88BBC-B9D3-4A9C-8509-42C7ECDBD044",
     "guides": [
     ]
   }

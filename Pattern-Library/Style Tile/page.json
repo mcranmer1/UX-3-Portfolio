@@ -37,6 +37,102 @@
     {
       "class": "artboard",
       "id": "59B1BACF-43E6-44D2-8A9B-1E5F4321E621"
+    },
+    {
+      "class": "artboard",
+      "id": "F8FFAC1E-B195-4054-A8FB-463EDC438C3A"
+    },
+    {
+      "class": "artboard",
+      "id": "491C7630-BEBE-43A0-BFA9-3483713A6650"
+    },
+    {
+      "class": "artboard",
+      "id": "28FFF411-9A46-4869-8DEF-38159745CDFE"
+    },
+    {
+      "class": "text",
+      "id": "97EA6E26-167D-4A04-A52E-4DF7F235E57D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F96E3123-4829-4A01-9EB3-B209C74D805A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E244B383-7DF2-4584-8E5B-CFAB82DB5DC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "544379FD-C15D-4018-AFCD-C87D2C252A77"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7508F0D9-B343-4ED8-8A74-1D4CC3F9E4D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F067F720-7A74-46A6-9C97-A7482A225AD2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F827E98B-2748-4365-98CE-9749F2DD36EB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0D5577C6-3213-40E2-9E54-7BC96F0A9F9B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "90738D7F-5CF4-4DEF-9A6D-F3B08DFB1ADD"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8E7F34D7-7D37-4145-B34C-EDF9D1F1C933"
+    },
+    {
+      "class": "text",
+      "id": "CE42E571-C404-4732-BA50-EB0DA407DEB7"
+    },
+    {
+      "class": "text",
+      "id": "10D325F4-B4CE-42B3-8A1F-8B6EFC69C877"
+    },
+    {
+      "class": "text",
+      "id": "C4F7D1F5-7535-4C2D-B183-CD34BC89E872"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C0DDB6FE-4AC3-46A1-AAD0-8C8B9BA8E426"
+    },
+    {
+      "class": "bitmap",
+      "id": "33192244-4ECD-4FCA-8C98-CDD201798426"
+    },
+    {
+      "class": "bitmap",
+      "id": "C60A1321-1DCF-40D0-B81F-14346D5E799C"
+    },
+    {
+      "class": "bitmap",
+      "id": "56BCE413-F03B-4034-B220-3C84E81086C4"
+    },
+    {
+      "class": "bitmap",
+      "id": "59A83AD7-1C84-424A-BAA1-C64E6C7E7C74"
+    },
+    {
+      "class": "text",
+      "id": "B5B9B417-FEEB-418E-BBCA-3732BE4568F8"
+    },
+    {
+      "class": "bitmap",
+      "id": "8EF93368-97BC-4E22-B232-D8DDE0D31EAA"
+    },
+    {
+      "class": "bitmap",
+      "id": "FC788ECB-287F-4BD8-B37D-43D3DF2830F7"
     }
   ],
   "name": "Style Tile",
