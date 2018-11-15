@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 237,
+        "length": 347,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 237
+        "location": 347
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
+    "string": "SPACED is a space travel company that keeps customers safety and comfort in mind. My job was to create a website that allows customers to book travel efficiently and to learn about the many different destinations available to travel to. The logo was created to encompass the essence and mission of SPACED, which is to proved safe space travel. \r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -75,12 +75,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 372,
+    "height": 516,
     "width": 1972,
     "x": 186,
     "y": 442
   },
-  "glyphBounds": "{{0, 16}, {1931, 543}}",
+  "glyphBounds": "{{0, 16}, {1926, 626}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -89,7 +89,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "SPACED is a space tr",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

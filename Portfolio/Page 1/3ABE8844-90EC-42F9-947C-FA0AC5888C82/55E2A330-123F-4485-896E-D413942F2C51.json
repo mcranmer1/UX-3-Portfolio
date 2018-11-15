@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "55E2A330-123F-4485-896E-D413942F2C51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "663F611B-3B1A-4C36-9959-1F92038CD41B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BC13C850-CD58-4CE6-AF5C-DF3E14F1ABFE",
+    "height": 107,
+    "width": 626,
+    "x": 859,
+    "y": 3054
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "button/Main Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "368580A4-E61B-47A1-9D8D-8B26C6478DD0",
+      "overrideName": "3B9DE739-D44A-4269-833C-D9D2C6481728_stringValue",
+      "value": "Github"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CC90EAA7-1439-4727-9F2A-F3F922F4A8FA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "9A8E6BFD-0B94-41A9-AFDE-76E844E3FA44",
+  "verticalSpacing": 0
+}

@@ -87,6 +87,22 @@
     {
       "class": "shapePath",
       "id": "5AA1729B-EA94-427A-B356-968A11AC1D6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "8F6ABCE5-A85E-424B-8E79-C68446DA2852"
+    },
+    {
+      "class": "rectangle",
+      "id": "6CF9CB6E-7AD5-4F37-84CB-2C07A10808C0"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C6A7930-D57E-49FD-AD0A-5ACC42558B6E"
+    },
+    {
+      "class": "rectangle",
+      "id": "B7221870-6A24-45D2-89F3-ED8811559648"
     }
   ],
   "name": "Page 1",

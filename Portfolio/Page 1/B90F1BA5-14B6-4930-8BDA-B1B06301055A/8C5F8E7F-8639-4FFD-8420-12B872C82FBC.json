@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 237,
+        "length": 274,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 237
+        "location": 274
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
+    "string": "Amazon is a large corporations sweeping the nation, but their app can be difficult to navigate and use. By evaluating problems through the heuristic evaluation I identified flaws in the flow and design of the app and took those issues and solve them with the redesign. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "12FAB5CB-3773-42D9-9CE1-336C590AFF51",
-    "height": 570,
+    "height": 744,
     "width": 1314,
-    "x": 171,
+    "x": 174,
     "y": 2418
   },
-  "glyphBounds": "{{0, 16}, {1307, 709}}",
+  "glyphBounds": "{{-1, 16}, {1296, 792}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si Copy",
+  "name": "Amazon is a large co",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

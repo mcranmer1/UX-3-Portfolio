@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 41,
+        "length": 40,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 86,
-        "location": 41
+        "location": 40
       }
     ],
-    "string": "SPACED\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company \n\nA website that reflect the brand \nvision \n"
+    "string": "\nAmazon\nLate Feb. 2018 - Mid March 2018\nCreate a logo that represents the company \n\nA website that reflect the brand \nvision \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 2224,
     "y": 2251
   },
-  "glyphBounds": "{{-1, 74}, {966, 824}}",
+  "glyphBounds": "{{-1, 121}, {987, 777}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED Epicurrance A",
+  "name": "Amazon Late Feb. 201",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

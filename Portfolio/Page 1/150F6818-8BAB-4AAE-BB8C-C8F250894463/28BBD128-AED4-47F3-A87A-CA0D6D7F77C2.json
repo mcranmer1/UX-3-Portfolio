@@ -28,11 +28,67 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 200,
+        "length": 60,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 89,
+            "minimumLineHeight": 89
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 43,
+        "location": 60
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 138,
+        "location": 103
       }
     ],
-    "string": "To space and back, safely\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
+    "string": "To space and back, safely\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company\n\nEstablish a website that customers can easily book their space travel through.\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -51,12 +107,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1242,
+    "height": 1498,
     "width": 1314,
-    "x": 862,
-    "y": 884
+    "x": 870.9999999999999,
+    "y": 1088
   },
-  "glyphBounds": "{{-1, 44}, {1258, 1046}}",
+  "glyphBounds": "{{-1, 70}, {1258, 1224}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
