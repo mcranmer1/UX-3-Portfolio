@@ -1720,7 +1720,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 15,
+        "changeIdentifier": 72,
         "clippingMaskMode": 0,
         "do_objectID": "B98CD787-1963-45F4-BB91-EF11FDEC61B1",
         "exportOptions": {
@@ -1898,9 +1898,9 @@
                       "color": {
                         "_class": "color",
                         "alpha": 1,
-                        "blue": 0.003921568627450976,
-                        "green": 0.003921568627450976,
-                        "red": 0.3647058823529412
+                        "blue": 0.6626009778911565,
+                        "green": 0.6626009778911565,
+                        "red": 0.6626009778911565
                       },
                       "fillType": 0,
                       "isEnabled": true,
@@ -2069,7 +2069,7 @@
           "red": 1
         },
         "booleanOperation": -1,
-        "changeIdentifier": 15,
+        "changeIdentifier": 72,
         "clippingMaskMode": 0,
         "do_objectID": "B98CD787-1963-45F4-BB91-EF11FDEC61B1",
         "exportOptions": {
@@ -2247,9 +2247,9 @@
                       "color": {
                         "_class": "color",
                         "alpha": 1,
-                        "blue": 0.003921568627450976,
-                        "green": 0.003921568627450976,
-                        "red": 0.3647058823529412
+                        "blue": 0.6626009778911565,
+                        "green": 0.6626009778911565,
+                        "red": 0.6626009778911565
                       },
                       "fillType": 0,
                       "isEnabled": true,
@@ -2425,5 +2425,10 @@
   "pages": [
     "Page 1",
     "Symbols"
-  ]
+  ],
+  "userInfo": {
+    "com.invisionlabs.sync": {
+      "metadata": "{\"hasSynced\":0,\"hasProjectIdChanged\":0,\"projectId\":0,\"publicLink\":\"\",\"resolution\":2,\"syncAll\":1}"
+    }
+  }
 }
