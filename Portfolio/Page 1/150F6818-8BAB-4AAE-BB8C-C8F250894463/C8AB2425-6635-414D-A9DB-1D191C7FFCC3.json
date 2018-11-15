@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 158,
+        "length": 175,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 158
+        "location": 175
       }
     ],
-    "string": "Client Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
+    "string": "Project Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -81,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "1BF1D660-B5CD-4B9E-866B-A4EE658DAE46",
-    "height": 988,
+    "height": 1242,
     "width": 621,
     "x": 180,
     "y": 884
   },
-  "glyphBounds": "{{0, 44}, {473, 1311}}",
+  "glyphBounds": "{{0, 44}, {473, 1451}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Client Name: Timefra",
+  "name": "Project Tagline: Cli",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

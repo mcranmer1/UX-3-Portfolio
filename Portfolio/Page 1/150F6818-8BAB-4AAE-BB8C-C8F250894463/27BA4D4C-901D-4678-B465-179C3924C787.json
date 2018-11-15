@@ -56,7 +56,7 @@
         "location": 14
       }
     ],
-    "string": "SPACED Website\n"
+    "string": "Project Title\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,7 +82,7 @@
     "x": 186,
     "y": 177
   },
-  "glyphBounds": "{{4, 27}, {1148, 111}}",
+  "glyphBounds": "{{0, 28}, {881, 266}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED Website",
+  "name": "Project Title",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

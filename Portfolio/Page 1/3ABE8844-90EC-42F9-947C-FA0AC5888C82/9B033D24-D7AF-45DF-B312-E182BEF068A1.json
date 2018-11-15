@@ -9,9 +9,9 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
+            "blue": 0,
+            "green": 0,
+            "red": 0
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
@@ -22,22 +22,20 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 74,
+        "length": 447,
         "location": 0
       }
     ],
-    "string": "Platforms:\t\t                  \nDesign Tools:               \nTeam Members: "
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \n\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "2C1441C8-0A0B-440E-960A-B2691045FD69",
+  "do_objectID": "9B033D24-D7AF-45DF-B312-E182BEF068A1",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
@@ -51,12 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 744,
-    "width": 478,
-    "x": 3357,
-    "y": 2277
+    "height": 783,
+    "width": 2005,
+    "x": 174,
+    "y": 1622
   },
-  "glyphBounds": "{{1, 44}, {466, 332}}",
+  "glyphBounds": "{{0, 16}, {1982, 716}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Platforms: Design To",
+  "name": "Lorem ipsum dolor si",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -82,9 +80,9 @@
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 1,
-          "green": 1,
-          "red": 1
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
@@ -95,9 +93,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 140,
-          "minimumLineHeight": 140
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

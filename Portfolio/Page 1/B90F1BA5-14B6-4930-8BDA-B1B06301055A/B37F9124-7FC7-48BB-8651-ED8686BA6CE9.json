@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B37F9124-7FC7-48BB-8651-ED8686BA6CE9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "60C9013A-B966-4C12-982B-21B7A902740B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "60B2E3F4-BB61-4BCB-93D2-5C62E5481E09",
+    "height": 120,
+    "width": 626,
+    "x": 3843,
+    "y": 3045
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "ButtonWhite  Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
+      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
+      "value": "Medium Post"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "66AEF79F-DC96-4AF5-9AAB-DAE4551257D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
+  "verticalSpacing": 0
+}

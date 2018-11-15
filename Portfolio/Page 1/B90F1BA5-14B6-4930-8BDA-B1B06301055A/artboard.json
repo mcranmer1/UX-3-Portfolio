@@ -28,7 +28,7 @@
     "height": 3300,
     "width": 5100,
     "x": 32,
-    "y": 7044
+    "y": 7254
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -60,10 +60,6 @@
     },
     {
       "class": "text",
-      "id": "447DE5CE-3D37-4E10-82FF-BCD402034A26"
-    },
-    {
-      "class": "text",
       "id": "609125E7-F6B1-459B-9C23-1133473E47E3"
     },
     {
@@ -77,6 +73,18 @@
     {
       "class": "text",
       "id": "2C1441C8-0A0B-440E-960A-B2691045FD69"
+    },
+    {
+      "class": "text",
+      "id": "8C5F8E7F-8639-4FFD-8420-12B872C82FBC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6935B445-DEAB-4AE9-91DD-3B4B18B14842"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B37F9124-7FC7-48BB-8651-ED8686BA6CE9"
     }
   ],
   "layout": {

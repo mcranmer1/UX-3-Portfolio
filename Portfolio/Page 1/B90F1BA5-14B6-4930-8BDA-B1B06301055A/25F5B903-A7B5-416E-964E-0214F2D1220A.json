@@ -28,11 +28,39 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 109,
+        "length": 41,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 89,
+            "minimumLineHeight": 89
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 86,
+        "location": 41
       }
     ],
-    "string": "SPACED\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision"
+    "string": "SPACED\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company \n\nA website that reflect the brand \nvision \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EADF3305-48CF-448D-B585-2DC85B2E420B",
-    "height": 570,
-    "width": 1314,
+    "height": 914,
+    "width": 1119,
     "x": 2180,
-    "y": 2447
+    "y": 2251
   },
-  "glyphBounds": "{{-1, 48}, {1258, 468}}",
+  "glyphBounds": "{{-1, 74}, {966, 824}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED April 2018 -",
+  "name": "SPACED Epicurrance A",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

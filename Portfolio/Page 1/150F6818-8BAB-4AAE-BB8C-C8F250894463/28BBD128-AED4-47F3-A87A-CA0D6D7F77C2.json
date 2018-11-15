@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 169,
+        "length": 200,
         "location": 0
       }
     ],
-    "string": "SPACED\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
+    "string": "To space and back, safely\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 862,
     "y": 884
   },
-  "glyphBounds": "{{-1, 48}, {1258, 902}}",
+  "glyphBounds": "{{-1, 44}, {1258, 1046}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED April 2018 -",
+  "name": "To space and back, s",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 212,
+        "length": 237,
         "location": 0
       },
       {
@@ -53,19 +53,19 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 212
+        "location": 237
       }
     ],
-    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n\r\n\r\n"
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "447DE5CE-3D37-4E10-82FF-BCD402034A26",
+  "do_objectID": "8C5F8E7F-8639-4FFD-8420-12B872C82FBC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C82F9A11-E5F0-4C92-8A5F-363979148D82",
+    "do_objectID": "AFBBC3D2-E15A-4DC8-BF2B-820A1082D88E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -76,13 +76,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "F6A9F434-A5F1-47AD-9D2C-A65949A1C7AF",
-    "height": 518,
-    "width": 1322,
-    "x": 167,
-    "y": 2649
+    "do_objectID": "12FAB5CB-3773-42D9-9CE1-336C590AFF51",
+    "height": 570,
+    "width": 1314,
+    "x": 171,
+    "y": 2418
   },
-  "glyphBounds": "{{1, 16}, {1303, 543}}",
+  "glyphBounds": "{{0, 16}, {1307, 709}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Design is self-expre",
+  "name": "Lorem ipsum dolor si Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,13 +100,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "429D4FB7-631E-451A-97AD-59258B115E8D",
+    "do_objectID": "2D0B7F6C-E479-4229-BA18-396E299CA2B0",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "1CC4ED58-644F-4C35-9BE6-341E2A28F743",
+      "do_objectID": "2B589AD1-F169-4ACB-8AC4-70083409FF78",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 13,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 14
+        "location": 13
       }
     ],
-    "string": "SPACED Website\n"
+    "string": "Project Title\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -79,10 +79,10 @@
     "do_objectID": "7C526C16-EB45-4E38-89F2-C91CAC19C901",
     "height": 167,
     "width": 1960,
-    "x": 167,
-    "y": 2407
+    "x": 179,
+    "y": 2172
   },
-  "glyphBounds": "{{4, 27}, {1148, 111}}",
+  "glyphBounds": "{{9, 28}, {872, 141}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED Website",
+  "name": "Project Title",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

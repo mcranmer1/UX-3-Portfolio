@@ -85,6 +85,14 @@
     {
       "class": "text",
       "id": "35AA0F72-0526-4FB3-B651-C8CB662E945D"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DF524F1-0295-42C2-821D-D1CC5209BF61"
+    },
+    {
+      "class": "text",
+      "id": "9B033D24-D7AF-45DF-B312-E182BEF068A1"
     }
   ],
   "layout": {
