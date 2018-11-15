@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 13,
         "location": 0
       },
       {
@@ -53,19 +53,19 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 14
+        "location": 13
       }
     ],
-    "string": "Project Title\n\n"
+    "string": "Project Title\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D551472F-1D51-41BB-9AAB-B7644A01DC81",
+  "do_objectID": "F2626F6E-4BD7-4AEA-92E5-314A5D3510F7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CEFD59ED-F0CD-4E0E-B578-8691703BE0CA",
+    "do_objectID": "F68335E0-07BC-450B-850D-8EB76BE90BB7",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -76,13 +76,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "190193AA-565D-4C3E-A5F5-DE0A5BEBA36C",
+    "do_objectID": "3D7F626F-3B2B-4C9C-9109-7475D3DD9F46",
     "height": 167,
     "width": 1960,
-    "x": 3522,
-    "y": 2620
+    "x": 183,
+    "y": 134
   },
-  "glyphBounds": "{{0, 28}, {881, 266}}",
+  "glyphBounds": "{{9, 28}, {872, 141}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Title Copy",
+  "name": "Project Title",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -100,13 +100,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DBFDCE7-F80F-468A-B71B-A83EBEC7BFC5",
+    "do_objectID": "41CE96F9-2B90-4BC3-83B0-1263C35E1239",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "58E39DC9-2C0F-4572-80B0-54902ED9ECDF",
+      "do_objectID": "CAB0E248-BBC4-4FBD-A6DB-5564C5C04D67",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

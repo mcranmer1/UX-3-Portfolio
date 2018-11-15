@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "843AD2F8-DBAE-4EC9-A86A-94380A636B6E",
+  "do_objectID": "AEAD287D-DCC3-4C61-A758-F9C8EE87ED6A",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B47B862F-664F-4CE1-9535-6495C19FA30F",
+    "do_objectID": "E7800D23-94F2-4CD8-98E4-A27A39C44216",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C56AAE06-0A06-4925-B3CF-46A79150A1AA",
-    "height": 107,
-    "width": 626,
-    "x": 860,
-    "y": 3054
+    "do_objectID": "94919B32-AC6F-47CE-A31E-83DC5C616C7C",
+    "height": 260,
+    "width": 260,
+    "x": 3957,
+    "y": 824.0000000000001
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/Main Copy",
+  "name": "Arrow Copy",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "05D9E03C-8305-43BD-A169-CF52B168C208",
-      "overrideName": "3DFF1AAB-3B8D-4962-9E21-5AD8E69E3024_stringValue",
-      "value": "Github"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "22D8E48F-D5C6-497E-80E7-2589D4EBD659",
+    "do_objectID": "83559E4A-E8F7-4F4B-B757-1AB330C0B69D",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "49D4151F-0623-46B5-A4F8-F06F92E400D2",
+  "symbolID": "1E2FC9B8-5C80-4B02-AEBE-07ED932B61E5",
   "verticalSpacing": 0
 }

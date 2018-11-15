@@ -2,11 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6C18C44A-9680-46DA-B4D4-9D53C6236979",
+  "do_objectID": "34B46AD7-1747-4E2F-9CE4-A741B49104A1",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "1CB79F0A-F3B0-42DE-9DAD-BF380A3E38A4",
+    "do_objectID": "1D2803B5-6375-460E-A7BF-2C0CFB6A88FC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,11 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "EBE50045-6F0C-4EDE-9251-809547C73674",
-    "height": 789,
-    "width": 6161,
-    "x": -578.625,
-    "y": 2209.375
+    "do_objectID": "126E0E3C-3744-45AE-880F-348F288AABCF",
+    "height": 1620,
+    "width": 1017,
+    "x": 1641,
+    "y": 781
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -33,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle Copy",
+  "name": "Rectangle Copy 3",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -80,7 +80,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -8,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -90,17 +90,17 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.592,
-          "green": 0.592,
-          "red": 0.592
+          "blue": 0,
+          "green": 0,
+          "red": 0
         },
         "fillType": 0,
-        "isEnabled": false,
+        "isEnabled": true,
         "position": 1,
         "thickness": 1
       }
     ],
-    "do_objectID": "1CC924C0-7732-4CA6-8DE0-8810395E154E",
+    "do_objectID": "A75EC0B5-87C2-4B81-9560-217AEFAC443A",
     "endMarkerType": 0,
     "fills": [
       {
@@ -108,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.005072262953427506,
-          "green": 0.005072262953427506,
-          "red": 0.3636532738095238
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
         },
         "fillType": 0,
         "isEnabled": true,

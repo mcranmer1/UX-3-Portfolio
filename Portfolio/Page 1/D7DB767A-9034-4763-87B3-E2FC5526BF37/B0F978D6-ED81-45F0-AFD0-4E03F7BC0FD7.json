@@ -16,17 +16,19 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 150
+              "name": "Charter-Roman",
+              "size": 68
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 24,
         "location": 0
       },
       {
@@ -42,30 +44,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 100
+              "name": "Charter-Roman",
+              "size": 68
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 89,
+            "minimumLineHeight": 89
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 1,
-        "location": 14
+        "length": 37,
+        "location": 24
       }
     ],
-    "string": "Project Title\n\n"
+    "string": "Mobile\nSketch, Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D551472F-1D51-41BB-9AAB-B7644A01DC81",
+  "do_objectID": "B0F978D6-ED81-45F0-AFD0-4E03F7BC0FD7",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CEFD59ED-F0CD-4E0E-B578-8691703BE0CA",
+    "do_objectID": "D98BF203-3D7E-4E2B-A984-85244767E49F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -76,13 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "190193AA-565D-4C3E-A5F5-DE0A5BEBA36C",
-    "height": 167,
-    "width": 1960,
-    "x": 3522,
-    "y": 2620
+    "do_objectID": "0F2A8D27-0670-46CE-B146-9FDFD015FF31",
+    "height": 802,
+    "width": 1071,
+    "x": 3947,
+    "y": 170
   },
-  "glyphBounds": "{{0, 28}, {881, 266}}",
+  "glyphBounds": "{{2, 70}, {926, 435}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,22 +95,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Title Copy",
+  "name": "Mobile Sketch, Invis",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DBFDCE7-F80F-468A-B71B-A83EBEC7BFC5",
+    "do_objectID": "18F3F2B0-A9F2-4DD7-B902-77D6EB7704C2",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "58E39DC9-2C0F-4572-80B0-54902ED9ECDF",
+      "do_objectID": "676F4A4D-34C0-4369-936F-CD761CAD0A64",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -118,13 +121,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTSans-CaptionBold",
-            "size": 150
+            "name": "Charter-Roman",
+            "size": 68
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 140,
+          "minimumLineHeight": 140
         },
         "textStyleVerticalAlignmentKey": 0
       },

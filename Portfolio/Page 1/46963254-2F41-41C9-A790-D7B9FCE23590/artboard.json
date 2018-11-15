@@ -55,18 +55,6 @@
       "id": "6C18C44A-9680-46DA-B4D4-9D53C6236979"
     },
     {
-      "class": "rectangle",
-      "id": "1ACCE861-686E-466B-AC6B-DB22DC7ADD5A"
-    },
-    {
-      "class": "rectangle",
-      "id": "B167F67D-BB58-48C4-970D-4EBEE2CBC054"
-    },
-    {
-      "class": "rectangle",
-      "id": "A0138601-6B5A-4FCB-8312-86ADECD19B51"
-    },
-    {
       "class": "symbolInstance",
       "id": "1A09D7FF-E91B-4C27-B335-DA09390F1339"
     },
@@ -77,6 +65,22 @@
     {
       "class": "text",
       "id": "D551472F-1D51-41BB-9AAB-B7644A01DC81"
+    },
+    {
+      "class": "rectangle",
+      "id": "97C0C4DC-DA61-4A4A-8EBD-1D10FB1EDC17"
+    },
+    {
+      "class": "rectangle",
+      "id": "F8DADD42-BBBD-4C9F-BBEF-771AB0208D69"
+    },
+    {
+      "class": "rectangle",
+      "id": "971A1D32-F4E9-4DD5-8891-E256C30B3B78"
+    },
+    {
+      "class": "rectangle",
+      "id": "E3733E9A-31B6-4E67-B4A2-84507A13F9B2"
     }
   ],
   "layout": {
@@ -95,7 +99,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Paybee Final",
+  "name": "EWU Website",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

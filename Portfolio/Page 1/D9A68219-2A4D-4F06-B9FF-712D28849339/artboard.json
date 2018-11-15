@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "000BEED3-626E-46AA-987A-F2025DA65C96",
+    "do_objectID": "95FC2DBA-9D79-40DE-8889-C31269A85937",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3ABE8844-90EC-42F9-947C-FA0AC5888C82",
+  "do_objectID": "D9A68219-2A4D-4F06-B9FF-712D28849339",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "481E6933-D7E6-4DE3-9FBA-4CCBCF779DD1",
+    "do_objectID": "15CBEFFB-8F80-4DD5-AA55-F93D95826A43",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4E60B275-E1A9-4BBF-9840-EE9C247E4062",
+    "do_objectID": "15FC2A02-29F0-4A1C-95CE-8D483966774A",
     "height": 3300,
     "width": 5100,
     "x": 32,
-    "y": 26
+    "y": 37520
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "75D1ADFB-0AD9-4A19-9676-2035EA7741C6",
+    "do_objectID": "F1F39137-9171-4582-9F3B-B6F9F9186699",
     "guides": [
     ]
   },
@@ -51,57 +51,38 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "47E38FBC-F108-4A8D-A75E-CDEECED85CF8"
-    },
-    {
-      "class": "text",
-      "id": "839F228D-0754-4563-89B4-C9E5FA8BD195"
-    },
-    {
-      "class": "text",
-      "id": "0C021720-E2C5-4379-9A16-98C7E919EC69"
-    },
-    {
-      "class": "bitmap",
-      "id": "DA28C260-E2FA-40D7-BBEB-2617AB92BEFC"
+      "class": "rectangle",
+      "id": "1366F3D1-87F0-40AA-BA9F-F7467D68C9CF"
     },
     {
       "class": "rectangle",
-      "id": "25BA9119-F6F9-4916-8203-2B1F107EE540"
-    },
-    {
-      "class": "text",
-      "id": "CD621CB0-2390-43C3-B096-9D7A029D53F6"
-    },
-    {
-      "class": "text",
-      "id": "35AA0F72-0526-4FB3-B651-C8CB662E945D"
+      "id": "34B46AD7-1747-4E2F-9CE4-A741B49104A1"
     },
     {
       "class": "rectangle",
-      "id": "4DF524F1-0295-42C2-821D-D1CC5209BF61"
+      "id": "79303DDE-23CD-4187-BA17-8BE4F5FB34BF"
     },
     {
-      "class": "text",
-      "id": "9B033D24-D7AF-45DF-B312-E182BEF068A1"
-    },
-    {
-      "class": "text",
-      "id": "BF69BE78-F057-4DAF-B0D3-222AACC8212E"
+      "class": "rectangle",
+      "id": "B6BFE953-A6AF-41AE-AB67-85AED8347838"
     },
     {
       "class": "symbolInstance",
-      "id": "67301426-042F-45B9-84B5-4DF3E45D1977"
+      "id": "C90D08E2-351C-4B68-AE2B-AC2768C448A7"
     },
     {
       "class": "symbolInstance",
-      "id": "843AD2F8-DBAE-4EC9-A86A-94380A636B6E"
+      "id": "E7080147-F9B7-43F6-9BCF-CB397D9467B9"
+    },
+    {
+      "class": "text",
+      "id": "83F28EB8-43B6-4F70-96CE-E77B522E5172"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 60,
+    "do_objectID": "6743DE57-8C50-483F-97EA-E1A0E705B263",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -114,7 +95,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Intro",
+  "name": "Prepper Final",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -130,7 +111,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "2B2B83A7-75D0-4B7B-9BDA-0F635F6483ED",
+    "do_objectID": "84A38122-E48B-4D31-830D-B7842D753AE7",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -139,7 +120,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "725B5077-DBD2-474D-9DB2-0A6ABB3E9A62",
+    "do_objectID": "0FFB1E88-F4B1-4189-9F4E-16784D9D6641",
     "guides": [
     ]
   }

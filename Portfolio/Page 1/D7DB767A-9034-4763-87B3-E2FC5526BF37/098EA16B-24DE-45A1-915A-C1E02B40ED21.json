@@ -16,56 +16,32 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 150
+              "name": "Charter-Roman",
+              "size": 68
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 74,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "PTSans-CaptionBold",
-              "size": 100
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 1,
-        "location": 14
       }
     ],
-    "string": "Project Title\n\n"
+    "string": "Platforms:\t\t                  \nDesign Tools:               \nTeam Members: "
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "D551472F-1D51-41BB-9AAB-B7644A01DC81",
+  "do_objectID": "098EA16B-24DE-45A1-915A-C1E02B40ED21",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CEFD59ED-F0CD-4E0E-B578-8691703BE0CA",
+    "do_objectID": "54043917-B47C-4B9D-B38D-37C79858137C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -76,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "190193AA-565D-4C3E-A5F5-DE0A5BEBA36C",
-    "height": 167,
-    "width": 1960,
-    "x": 3522,
-    "y": 2620
+    "do_objectID": "6FCE339E-0B03-4F01-BED6-C4A4FCD4139A",
+    "height": 744,
+    "width": 478,
+    "x": 3361,
+    "y": 196
   },
-  "glyphBounds": "{{0, 28}, {881, 266}}",
+  "glyphBounds": "{{1, 44}, {466, 332}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,22 +67,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Title Copy",
+  "name": "Platforms: Design To",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "4DBFDCE7-F80F-468A-B71B-A83EBEC7BFC5",
+    "do_objectID": "E2337A38-D43B-475A-B212-1A48C8F36921",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "58E39DC9-2C0F-4572-80B0-54902ED9ECDF",
+      "do_objectID": "C2D89EA1-2243-467C-80F9-6CEADE1F0B0D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -118,13 +93,15 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "PTSans-CaptionBold",
-            "size": 150
+            "name": "Charter-Roman",
+            "size": 68
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 0,
+          "maximumLineHeight": 140,
+          "minimumLineHeight": 140
         },
         "textStyleVerticalAlignmentKey": 0
       },

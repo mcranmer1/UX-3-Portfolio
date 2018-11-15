@@ -31,7 +31,7 @@
     "y": 18211
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
@@ -103,7 +103,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Paybee",
+  "name": "EWU Website",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

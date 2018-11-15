@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "843AD2F8-DBAE-4EC9-A86A-94380A636B6E",
+  "do_objectID": "BAC127F5-8AC7-480C-9248-122FA6D884C2",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "B47B862F-664F-4CE1-9535-6495C19FA30F",
+    "do_objectID": "58CD5DB4-4007-4C87-9B1E-0B8AD21BB12A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C56AAE06-0A06-4925-B3CF-46A79150A1AA",
-    "height": 107,
+    "do_objectID": "E3F70850-C3D4-41FA-9A85-B35EA0FC4F6A",
+    "height": 120,
     "width": 626,
-    "x": 860,
-    "y": 3054
+    "x": 890,
+    "y": 2965
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/Main Copy",
+  "name": "ButtonWhite  Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "05D9E03C-8305-43BD-A169-CF52B168C208",
-      "overrideName": "3DFF1AAB-3B8D-4962-9E21-5AD8E69E3024_stringValue",
-      "value": "Github"
+      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
+      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
+      "value": "Medium Post"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "22D8E48F-D5C6-497E-80E7-2589D4EBD659",
+    "do_objectID": "ACE9EF2A-5378-4858-A819-85325BDCD2F6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "49D4151F-0623-46B5-A4F8-F06F92E400D2",
+  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
   "verticalSpacing": 0
 }

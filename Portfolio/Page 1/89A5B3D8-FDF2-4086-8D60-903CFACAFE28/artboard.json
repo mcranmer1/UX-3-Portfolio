@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "000BEED3-626E-46AA-987A-F2025DA65C96",
+    "do_objectID": "8E56AFDA-41CB-4319-BDD4-C2C0E2C7488D",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "3ABE8844-90EC-42F9-947C-FA0AC5888C82",
+  "do_objectID": "89A5B3D8-FDF2-4086-8D60-903CFACAFE28",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "481E6933-D7E6-4DE3-9FBA-4CCBCF779DD1",
+    "do_objectID": "2641D039-11F1-4274-BF01-1BC0C5E1D860",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,19 +24,19 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "4E60B275-E1A9-4BBF-9840-EE9C247E4062",
+    "do_objectID": "823788BE-F7EB-4DDE-A1BC-9CEAA99FC6DA",
     "height": 3300,
     "width": 5100,
     "x": 32,
-    "y": 26
+    "y": 29837
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "75D1ADFB-0AD9-4A19-9676-2035EA7741C6",
+    "do_objectID": "F1B32238-A74C-4452-A387-D74EF8B864E7",
     "guides": [
     ]
   },
@@ -51,57 +51,38 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "text",
-      "id": "47E38FBC-F108-4A8D-A75E-CDEECED85CF8"
-    },
-    {
-      "class": "text",
-      "id": "839F228D-0754-4563-89B4-C9E5FA8BD195"
-    },
-    {
-      "class": "text",
-      "id": "0C021720-E2C5-4379-9A16-98C7E919EC69"
-    },
-    {
-      "class": "bitmap",
-      "id": "DA28C260-E2FA-40D7-BBEB-2617AB92BEFC"
+      "class": "rectangle",
+      "id": "016F5DA7-98E8-42DB-B141-12C8558C66D7"
     },
     {
       "class": "rectangle",
-      "id": "25BA9119-F6F9-4916-8203-2B1F107EE540"
-    },
-    {
-      "class": "text",
-      "id": "CD621CB0-2390-43C3-B096-9D7A029D53F6"
-    },
-    {
-      "class": "text",
-      "id": "35AA0F72-0526-4FB3-B651-C8CB662E945D"
+      "id": "8D37914A-5C01-487D-9894-E85AC8C86B01"
     },
     {
       "class": "rectangle",
-      "id": "4DF524F1-0295-42C2-821D-D1CC5209BF61"
+      "id": "96902E69-7737-4D12-9757-8663AE808DE7"
     },
     {
-      "class": "text",
-      "id": "9B033D24-D7AF-45DF-B312-E182BEF068A1"
-    },
-    {
-      "class": "text",
-      "id": "BF69BE78-F057-4DAF-B0D3-222AACC8212E"
+      "class": "rectangle",
+      "id": "8EA76A9E-14ED-4C12-9BBC-5EF2CCA0B6B9"
     },
     {
       "class": "symbolInstance",
-      "id": "67301426-042F-45B9-84B5-4DF3E45D1977"
+      "id": "8A02F6A3-4579-458E-B6BE-75CFB29A8627"
     },
     {
       "class": "symbolInstance",
-      "id": "843AD2F8-DBAE-4EC9-A86A-94380A636B6E"
+      "id": "BAC127F5-8AC7-480C-9248-122FA6D884C2"
+    },
+    {
+      "class": "text",
+      "id": "24D1DAD9-0697-44C7-916F-5DB7BF9638DA"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 60,
+    "do_objectID": "2B47B22E-71E6-492B-A6CE-01517D3060B6",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -114,7 +95,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Intro",
+  "name": "Paybee",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -130,7 +111,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "2B2B83A7-75D0-4B7B-9BDA-0F635F6483ED",
+    "do_objectID": "582A766C-59C1-4955-BDA3-3032914C7CFF",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -139,7 +120,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "725B5077-DBD2-474D-9DB2-0A6ABB3E9A62",
+    "do_objectID": "BE0D3AC4-680A-4FD6-8CE6-EC7FA455DB04",
     "guides": [
     ]
   }
