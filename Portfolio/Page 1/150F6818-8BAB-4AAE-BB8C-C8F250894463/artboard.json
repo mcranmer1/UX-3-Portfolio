@@ -71,14 +71,6 @@
       "id": "28BBD128-AED4-47F3-A87A-CA0D6D7F77C2"
     },
     {
-      "class": "symbolInstance",
-      "id": "354EA75B-F504-41EE-A5C8-C4E1575A2EDB"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "5F2990F1-12D3-4601-8744-3635BB136C46"
-    },
-    {
       "class": "rectangle",
       "id": "1A5D8178-9505-4303-B9A8-379DD511367A"
     },
@@ -89,6 +81,10 @@
     {
       "class": "rectangle",
       "id": "F8D93E68-5D90-48D0-BA17-AAB07868B561"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6330AA64-6104-41FA-A186-922AC766CB73"
     }
   ],
   "layout": {

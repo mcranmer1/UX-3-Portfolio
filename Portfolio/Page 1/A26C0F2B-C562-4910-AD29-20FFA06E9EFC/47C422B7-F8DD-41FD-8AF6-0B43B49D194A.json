@@ -28,48 +28,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 91,
+        "length": 200,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Charter-Roman",
-              "size": 50
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 2,
-        "location": 91
       }
     ],
-    "string": "Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
+    "string": "To space and back, safely\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "609125E7-F6B1-459B-9C23-1133473E47E3",
+  "do_objectID": "47C422B7-F8DD-41FD-8AF6-0B43B49D194A",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD5DCBD4-3178-4DA9-B42E-40BBAFF6AE47",
+    "do_objectID": "B2715984-186B-467C-A8B3-652A37E7EA07",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,13 +52,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "381DE9F5-FF7C-4816-B56D-18C2E66FC65C",
-    "height": 598,
-    "width": 621,
-    "x": 1603,
-    "y": 2277
+    "do_objectID": "3C3DF3EA-D2EF-4DA9-8659-1C545B4F29E3",
+    "height": 1242,
+    "width": 1314,
+    "x": 3725,
+    "y": 910
   },
-  "glyphBounds": "{{0, 44}, {473, 891}}",
+  "glyphBounds": "{{-1, 44}, {1258, 1046}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,22 +67,21 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tagline: Client Name",
+  "name": "To space and back, s Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ED9426FA-3E57-4410-A112-F045E33B0B15",
+    "do_objectID": "03C2C59E-D321-45B0-B3A9-1C3B208F1D14",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B2BCC511-F5A3-4D65-9A7E-C68757474C3D",
+      "do_objectID": "F21D7D19-9A4C-4F0A-B986-F263BFA69A8D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

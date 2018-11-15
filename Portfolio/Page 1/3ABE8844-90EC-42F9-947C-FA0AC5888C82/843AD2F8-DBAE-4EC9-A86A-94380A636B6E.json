@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4B396BF3-4F7A-43C1-BAC5-BFC6E04E7705",
+  "do_objectID": "843AD2F8-DBAE-4EC9-A86A-94380A636B6E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "6179C035-9BE1-415F-932F-2208CC96ECF3",
+    "do_objectID": "B47B862F-664F-4CE1-9535-6495C19FA30F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "34B73519-55B9-40EA-A2F4-6D5815E85415",
+    "do_objectID": "C56AAE06-0A06-4925-B3CF-46A79150A1AA",
     "height": 107,
     "width": 626,
-    "x": 174,
-    "y": 2661
+    "x": 862,
+    "y": 2689
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/1 copy 2",
+  "name": "button/Main Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
-      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
-      "value": "Website"
+      "do_objectID": "05D9E03C-8305-43BD-A169-CF52B168C208",
+      "overrideName": "3DFF1AAB-3B8D-4962-9E21-5AD8E69E3024_stringValue",
+      "value": "Github"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "8F5AFC68-6F9B-484A-A6B2-FE631AC1CF07",
+    "do_objectID": "22D8E48F-D5C6-497E-80E7-2589D4EBD659",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
+  "symbolID": "49D4151F-0623-46B5-A4F8-F06F92E400D2",
   "verticalSpacing": 0
 }

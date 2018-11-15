@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B37F9124-7FC7-48BB-8651-ED8686BA6CE9",
+  "do_objectID": "CF4B531F-4196-402F-8404-14FB1357809E",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "60C9013A-B966-4C12-982B-21B7A902740B",
+    "do_objectID": "D02EA79E-32BA-4D30-A2AA-672473B4A661",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "60B2E3F4-BB61-4BCB-93D2-5C62E5481E09",
-    "height": 120,
-    "width": 626,
-    "x": 3843,
-    "y": 3045
+    "do_objectID": "A1C5391A-1FC6-4A50-B426-AC96071EABBA",
+    "height": 260,
+    "width": 260,
+    "x": 3852,
+    "y": 2348
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +30,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ButtonWhite  Copy 3",
+  "name": "Arrow Copy",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
-      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Medium Post"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +41,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "66AEF79F-DC96-4AF5-9AAB-DAE4551257D3",
+    "do_objectID": "4FB7E271-813F-4689-8386-CE21DA52B2CC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
+  "symbolID": "1E2FC9B8-5C80-4B02-AEBE-07ED932B61E5",
   "verticalSpacing": 0
 }

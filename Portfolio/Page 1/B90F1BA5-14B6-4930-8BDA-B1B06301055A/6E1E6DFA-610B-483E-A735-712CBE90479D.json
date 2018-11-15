@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 29,
+        "length": 24,
         "location": 0
       },
       {
@@ -56,11 +56,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 80,
-        "location": 29
+        "length": 37,
+        "location": 24
       }
     ],
-    "string": "SPACED\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision"
+    "string": "Mobile\nSketch, Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 3943,
     "y": 2251
   },
-  "glyphBounds": "{{-1, 74}, {966, 595}}",
+  "glyphBounds": "{{2, 70}, {926, 435}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED April 2018 -",
+  "name": "Mobile Sketch, Invis",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

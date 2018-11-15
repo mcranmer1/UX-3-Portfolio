@@ -2,10 +2,11 @@
   "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "4DF524F1-0295-42C2-821D-D1CC5209BF61",
+  "do_objectID": "7E83CDD7-EF06-46EC-9A09-AB0C765A0542",
   "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "F7B6EED3-1420-4DA4-BBC9-0AF34FC6EF13",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -17,10 +18,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1733,
-    "width": 2601,
-    "x": 2316,
-    "y": 1428
+    "do_objectID": "CCF0F4C8-B857-4B48-9654-AB0B3A7C7BB0",
+    "height": 964,
+    "width": 6161,
+    "x": -603.6800375795101,
+    "y": 613.5899287725738
   },
   "hasClippingMask": false,
   "hasConvertedToNewRoundCorners": true,
@@ -31,7 +33,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Rectangle",
+  "name": "Rectangle Copy",
   "nameIsFixed": false,
   "pointRadiusBehaviour": 1,
   "points": [
@@ -78,7 +80,7 @@
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": 17,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -98,6 +100,7 @@
         "thickness": 1
       }
     ],
+    "do_objectID": "F98F619E-4995-4B3B-8B73-44CCFA3203FF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -105,9 +108,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.847,
-          "green": 0.847,
-          "red": 0.847
+          "blue": 0.005072262953427506,
+          "green": 0.005072262953427506,
+          "red": 0.3636532738095238
         },
         "fillType": 0,
         "isEnabled": true,

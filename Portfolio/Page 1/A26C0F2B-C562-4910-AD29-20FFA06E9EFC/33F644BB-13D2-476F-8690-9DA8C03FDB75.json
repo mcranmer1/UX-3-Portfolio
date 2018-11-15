@@ -22,13 +22,11 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 91,
+        "length": 237,
         "location": 0
       },
       {
@@ -50,26 +48,24 @@
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 91
+        "location": 237
       }
     ],
-    "string": "Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
+    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "609125E7-F6B1-459B-9C23-1133473E47E3",
+  "do_objectID": "33F644BB-13D2-476F-8690-9DA8C03FDB75",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD5DCBD4-3178-4DA9-B42E-40BBAFF6AE47",
+    "do_objectID": "3DBEC280-4C45-4AB4-9CA5-1D33C6D01FD1",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,13 +76,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "381DE9F5-FF7C-4816-B56D-18C2E66FC65C",
-    "height": 598,
-    "width": 621,
-    "x": 1603,
-    "y": 2277
+    "do_objectID": "7BABBA89-67FD-499D-9729-572D70D7F6F8",
+    "height": 372,
+    "width": 1972,
+    "x": 3049,
+    "y": 468.0000000000001
   },
-  "glyphBounds": "{{0, 44}, {473, 891}}",
+  "glyphBounds": "{{0, 16}, {1931, 543}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tagline: Client Name",
+  "name": "Lorem ipsum dolor si Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,13 +100,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ED9426FA-3E57-4410-A112-F045E33B0B15",
+    "do_objectID": "9B7C8920-DAA8-41B9-BB60-FB81ADA294BD",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B2BCC511-F5A3-4D65-9A7E-C68757474C3D",
+      "do_objectID": "61643687-A07E-4368-9587-3F336C675FD6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -128,9 +124,7 @@
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 140,
-          "minimumLineHeight": 140
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

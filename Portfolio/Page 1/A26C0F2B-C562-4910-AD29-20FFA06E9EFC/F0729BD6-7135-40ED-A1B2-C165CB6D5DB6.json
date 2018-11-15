@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 91,
+        "length": 175,
         "location": 0
       },
       {
@@ -57,19 +57,19 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 91
+        "location": 175
       }
     ],
-    "string": "Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
+    "string": "Project Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "609125E7-F6B1-459B-9C23-1133473E47E3",
+  "do_objectID": "F0729BD6-7135-40ED-A1B2-C165CB6D5DB6",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD5DCBD4-3178-4DA9-B42E-40BBAFF6AE47",
+    "do_objectID": "48694B73-AECB-4D6B-8E4A-753BF795D64C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,13 +80,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "381DE9F5-FF7C-4816-B56D-18C2E66FC65C",
-    "height": 598,
+    "do_objectID": "B1BDDD5D-E69E-4C42-8232-B5FF9D68A461",
+    "height": 1242,
     "width": 621,
-    "x": 1603,
-    "y": 2277
+    "x": 3043,
+    "y": 910
   },
-  "glyphBounds": "{{0, 44}, {473, 891}}",
+  "glyphBounds": "{{0, 44}, {473, 1451}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tagline: Client Name",
+  "name": "Project Tagline: Cli Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -104,13 +104,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ED9426FA-3E57-4410-A112-F045E33B0B15",
+    "do_objectID": "3B86DFCF-7E0B-4167-89C1-974396248A70",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B2BCC511-F5A3-4D65-9A7E-C68757474C3D",
+      "do_objectID": "A8F6A802-480B-4ADB-9A7F-B36D3A8B9AAC",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

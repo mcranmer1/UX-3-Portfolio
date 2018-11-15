@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "C9FA921B-B760-43CF-ABD5-E55A370725D2",
+  "do_objectID": "023D1B41-D6A2-4BC9-963D-E1F69B49FFA8",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "C5251819-76AB-4B66-BD5A-CBEB03EEF4BC",
+    "do_objectID": "9F5BF8A9-2CCC-429A-BD6E-527F9C71153D",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "10947A1A-7031-469D-810C-C3CCBF364FD0",
-    "height": 107,
+    "do_objectID": "D720E720-20DA-4429-A336-F0346011CA96",
+    "height": 120,
     "width": 626,
-    "x": 861,
-    "y": 2661
+    "x": 172,
+    "y": 1694
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "button/1",
+  "name": "ButtonWhite ",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "18314251-0AE5-40B2-82C9-665F362EF255",
-      "overrideName": "4E2FC0B5-D05D-430F-B4FD-D831BA9499C9_stringValue",
-      "value": "GitHub"
+      "do_objectID": "C7FA177F-1089-4708-8EED-9455A27C26EF",
+      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
+      "value": "Prototype"
     }
   ],
   "resizingConstraint": 63,
@@ -47,12 +47,12 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AC17716F-F37B-4701-A28F-0453EB43F876",
+    "do_objectID": "304F6AB1-E1FA-4397-BE0F-9B951483F0ED",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "F5937621-F93C-4E14-8040-90BCF04D4DCE",
+  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
   "verticalSpacing": 0
 }

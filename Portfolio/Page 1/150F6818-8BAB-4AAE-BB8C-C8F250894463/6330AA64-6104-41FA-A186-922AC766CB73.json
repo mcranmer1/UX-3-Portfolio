@@ -2,10 +2,9 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F2990F1-12D3-4601-8744-3635BB136C46",
+  "do_objectID": "6330AA64-6104-41FA-A186-922AC766CB73",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF34B857-F538-43B1-97DF-DCE98172B632",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C2148CE6-6E92-4A80-9113-D9D935EE1B02",
-    "height": 120,
-    "width": 626,
-    "x": 856,
-    "y": 2321
+    "height": 260,
+    "width": 260,
+    "x": 989,
+    "y": 2322
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,15 +28,9 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ButtonWhite  Copy",
+  "name": "Arrow",
   "nameIsFixed": false,
   "overrideValues": [
-    {
-      "_class": "overrideValue",
-      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
-      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Medium Post"
-    }
   ],
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -47,12 +39,11 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A24A19FE-F386-4613-AE3C-57E6F8E6AA7A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
+  "symbolID": "1E2FC9B8-5C80-4B02-AEBE-07ED932B61E5",
   "verticalSpacing": 0
 }

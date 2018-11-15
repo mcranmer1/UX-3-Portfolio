@@ -16,19 +16,17 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 68
+              "name": "PTSans-CaptionBold",
+              "size": 150
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 91,
+        "length": 14,
         "location": 0
       },
       {
@@ -37,39 +35,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0.2196078431372549,
-            "green": 0.1058823529411764,
-            "red": 0.05490196078431372
+            "blue": 1,
+            "green": 1,
+            "red": 1
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 50
+              "name": "PTSans-CaptionBold",
+              "size": 100
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 140,
-            "minimumLineHeight": 140
+            "alignment": 0
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
-        "location": 91
+        "length": 1,
+        "location": 14
       }
     ],
-    "string": "Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
+    "string": "Project Title\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "609125E7-F6B1-459B-9C23-1133473E47E3",
+  "do_objectID": "A449C948-AE3E-4345-9016-23DDBDBB5BA0",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "CD5DCBD4-3178-4DA9-B42E-40BBAFF6AE47",
+    "do_objectID": "D83B8E71-B71E-4270-B6E3-36B849804B51",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -80,13 +76,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "381DE9F5-FF7C-4816-B56D-18C2E66FC65C",
-    "height": 598,
-    "width": 621,
-    "x": 1603,
-    "y": 2277
+    "do_objectID": "24726341-E8C0-4AE8-B07E-4DCAEE801178",
+    "height": 167,
+    "width": 1960,
+    "x": 3049,
+    "y": 203
   },
-  "glyphBounds": "{{0, 44}, {473, 891}}",
+  "glyphBounds": "{{0, 28}, {881, 266}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,22 +91,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tagline: Client Name",
+  "name": "Project Title Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
+  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "ED9426FA-3E57-4410-A112-F045E33B0B15",
+    "do_objectID": "88789BF1-C1A7-4E8E-B3B9-D6E3F5165489",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "B2BCC511-F5A3-4D65-9A7E-C68757474C3D",
+      "do_objectID": "B7110A35-D74D-4F79-A95E-B096A6231598",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -122,15 +118,13 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 68
+            "name": "PTSans-CaptionBold",
+            "size": 150
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0,
-          "maximumLineHeight": 140,
-          "minimumLineHeight": 140
+          "alignment": 0
         },
         "textStyleVerticalAlignmentKey": 0
       },

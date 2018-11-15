@@ -4,16 +4,16 @@
     "_class": "color",
     "alpha": 1,
     "blue": 1,
-    "do_objectID": "55F823A9-BEED-4445-8529-2DD90E614FC7",
+    "do_objectID": "60C0E1FE-41AB-4668-B110-2DBF93A7B0A4",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "B90F1BA5-14B6-4930-8BDA-B1B06301055A",
+  "do_objectID": "A26C0F2B-C562-4910-AD29-20FFA06E9EFC",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "93E793C5-50F0-45CE-AF39-EB13BE5CC4AB",
+    "do_objectID": "DBCBCC19-7B2C-4789-A56F-06FEDE2ABF3C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -24,11 +24,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C3BF2328-28B7-47CC-87A2-2C9B30E6D969",
+    "do_objectID": "AC33AFC1-6F48-4191-A4D3-1822BC1444A9",
     "height": 3300,
     "width": 5100,
     "x": 32,
-    "y": 10862
+    "y": 18211
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -36,7 +36,7 @@
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "BE5A4D18-8160-44C7-A977-90E44FE95D10",
+    "do_objectID": "DABC5AC3-8AB0-4136-8E31-19BD1B076DEB",
     "guides": [
     ]
   },
@@ -52,57 +52,45 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "C6EEB36F-6F20-423A-B2F2-E3B3FB9F1B55"
+      "id": "8AD8E562-9D5D-4B49-935B-EC08CC59A4CC"
     },
     {
       "class": "text",
-      "id": "31B78602-604B-46E9-9C1B-DC849604459C"
+      "id": "A449C948-AE3E-4345-9016-23DDBDBB5BA0"
     },
     {
       "class": "text",
-      "id": "609125E7-F6B1-459B-9C23-1133473E47E3"
+      "id": "33F644BB-13D2-476F-8690-9DA8C03FDB75"
     },
     {
       "class": "text",
-      "id": "25F5B903-A7B5-416E-964E-0214F2D1220A"
+      "id": "F0729BD6-7135-40ED-A1B2-C165CB6D5DB6"
     },
     {
       "class": "text",
-      "id": "6E1E6DFA-610B-483E-A735-712CBE90479D"
-    },
-    {
-      "class": "text",
-      "id": "2C1441C8-0A0B-440E-960A-B2691045FD69"
-    },
-    {
-      "class": "text",
-      "id": "8C5F8E7F-8639-4FFD-8420-12B872C82FBC"
-    },
-    {
-      "class": "rectangle",
-      "id": "718F25DB-D495-4B57-B377-85F7C298B8F4"
-    },
-    {
-      "class": "rectangle",
-      "id": "D043773E-4135-4FBD-BF0B-5F499B451410"
-    },
-    {
-      "class": "rectangle",
-      "id": "0890C46A-1C8C-4ED9-8F69-AA2A1DEF4EFD"
-    },
-    {
-      "class": "rectangle",
-      "id": "F58B6EA1-2CB1-4B9A-824A-60FD39307A6B"
+      "id": "47C422B7-F8DD-41FD-8AF6-0B43B49D194A"
     },
     {
       "class": "symbolInstance",
-      "id": "ED03D068-FC88-4403-8B23-AD2265EE3F82"
+      "id": "CF4B531F-4196-402F-8404-14FB1357809E"
+    },
+    {
+      "class": "rectangle",
+      "id": "28DF3AC1-27E8-4C43-B779-D717F89FFBF2"
+    },
+    {
+      "class": "rectangle",
+      "id": "936F4B79-CDAF-4B5F-93E2-56972173825F"
+    },
+    {
+      "class": "rectangle",
+      "id": "1C601BED-DD2A-426B-87D9-3F62A4288174"
     }
   ],
   "layout": {
     "_class": "layoutGrid",
     "columnWidth": 60,
-    "do_objectID": "C2873AAE-8DB7-47C7-8979-E9980CD074E7",
+    "do_objectID": "D069BDC0-01AB-40A1-91EC-4964EADE7A3F",
     "drawHorizontal": false,
     "drawHorizontalLines": false,
     "drawVertical": true,
@@ -115,7 +103,7 @@
     "rowHeightMultiplication": 5,
     "totalWidth": 5500
   },
-  "name": "Amazon Redesign",
+  "name": "Paybee",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -131,7 +119,7 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
-    "do_objectID": "7BC02CE3-72AC-44CE-94E8-CC39B205549F",
+    "do_objectID": "1BB6384B-4199-4645-9132-2E58FC696356",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
@@ -140,7 +128,7 @@
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
-    "do_objectID": "0ED184D9-B34C-41F5-84FE-A3B3774FDDFE",
+    "do_objectID": "748187B9-110E-44CB-A6BD-873D509904FC",
     "guides": [
     ]
   }
