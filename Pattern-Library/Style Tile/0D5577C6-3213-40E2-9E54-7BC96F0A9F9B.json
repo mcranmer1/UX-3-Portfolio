@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
+  "_class": "rectangle",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "0D5577C6-3213-40E2-9E54-7BC96F0A9F9B",
+  "edited": false,
   "exportOptions": {
     "_class": "exportOptions",
     "do_objectID": "DA9FE7A4-6B92-455D-A21F-84BC64361F20",
@@ -13,31 +14,69 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fixedRadius": 0,
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "161B3D3D-EE0B-4330-806E-62C48B532F95",
     "height": 78,
     "width": 78,
     "x": 677,
     "y": -301
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "hasConvertedToNewRoundCorners": true,
+  "isClosed": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "DF925425-4FA7-448E-9BE6-2F82D6793BEC"
-    }
-  ],
   "name": "Rectangle 2 Copy 2",
   "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 0}",
+      "curveMode": 1,
+      "curveTo": "{0, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 0}",
+      "curveMode": 1,
+      "curveTo": "{1, 0}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 0}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{1, 1}",
+      "curveMode": 1,
+      "curveTo": "{1, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{1, 1}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0, 1}",
+      "curveMode": 1,
+      "curveTo": "{0, 1}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0, 1}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -83,6 +122,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }

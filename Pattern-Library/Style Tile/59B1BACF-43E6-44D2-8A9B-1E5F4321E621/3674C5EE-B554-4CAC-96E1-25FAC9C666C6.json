@@ -1,10 +1,12 @@
 {
-  "_class": "shapeGroup",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "8E7F34D7-7D37-4145-B34C-EDF9D1F1C933",
+  "do_objectID": "3674C5EE-B554-4CAC-96E1-25FAC9C666C6",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "CB7FF920-D7A6-4385-B0CA-D005C73C4916",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,27 +17,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 0.1,
-    "width": 238,
-    "x": 879,
-    "y": -691
+    "height": 619,
+    "width": 3,
+    "x": 312,
+    "y": 0
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
-  "layers": [
+  "name": "Line Copy",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "shapePath",
-      "id": "CD225764-E0DF-4AC3-8520-E7EFFCC1F5D9"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.38888888888888884, -0.021001615508885314}",
+      "curveMode": 1,
+      "curveTo": "{0.38888888888888884, -0.021001615508885314}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.38888888888889045, 0.00080775444264943484}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{0.38888888888889045, 1.0048465266558968}",
+      "curveMode": 1,
+      "curveTo": "{0.38888888888889045, 1.0048465266558968}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.38888888888889045, 0.99919224555735053}"
     }
   ],
-  "name": "Line",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -46,6 +65,7 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
+      "do_objectID": "759D4528-DAE5-47F9-BD43-6B4FEB01E940",
       "isEnabled": false,
       "lineCapStyle": 2,
       "lineJoinStyle": 0
@@ -66,6 +86,7 @@
         "thickness": 3
       }
     ],
+    "do_objectID": "E605F14D-E719-4A69-9724-4AF51F588FDF",
     "endMarkerType": 0,
     "fills": [
       {
@@ -88,6 +109,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }

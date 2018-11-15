@@ -1,8 +1,9 @@
 {
-  "_class": "shapeGroup",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
   "do_objectID": "90738D7F-5CF4-4DEF-9A6D-F3B08DFB1ADD",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -20,22 +21,29 @@
     "x": 837,
     "y": -666
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "shapePath",
-      "id": "F280DF24-0AEF-4E43-A2F6-D0D8073B6BF7"
-    }
-  ],
   "name": "Path 2",
   "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{188.0390625, 50}",
+      "curveMode": 2,
+      "curveTo": "{-88.0390625, 50.000000000000028}",
+      "hasCurveFrom": true,
+      "hasCurveTo": true,
+      "point": "{50, 50}"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -80,6 +88,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }

@@ -1,6 +1,7 @@
 {
   "_class": "page",
   "booleanOperation": -1,
+  "clippingMaskMode": 0,
   "do_objectID": "188EE8C4-A369-4777-9703-5EEA0D419B3F",
   "exportOptions": {
     "_class": "exportOptions",
@@ -20,6 +21,7 @@
     "y": 0
   },
   "hasClickThrough": true,
+  "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,27 +69,27 @@
       "id": "544379FD-C15D-4018-AFCD-C87D2C252A77"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "7508F0D9-B343-4ED8-8A74-1D4CC3F9E4D6"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F067F720-7A74-46A6-9C97-A7482A225AD2"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "F827E98B-2748-4365-98CE-9749F2DD36EB"
     },
     {
-      "class": "shapeGroup",
+      "class": "rectangle",
       "id": "0D5577C6-3213-40E2-9E54-7BC96F0A9F9B"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "90738D7F-5CF4-4DEF-9A6D-F3B08DFB1ADD"
     },
     {
-      "class": "shapeGroup",
+      "class": "shapePath",
       "id": "8E7F34D7-7D37-4145-B34C-EDF9D1F1C933"
     },
     {
@@ -133,6 +135,10 @@
     {
       "class": "bitmap",
       "id": "FC788ECB-287F-4BD8-B37D-43D3DF2830F7"
+    },
+    {
+      "class": "artboard",
+      "id": "3E2B6CE0-C92D-4823-91CA-1558B95F0B0E"
     }
   ],
   "name": "Style Tile",

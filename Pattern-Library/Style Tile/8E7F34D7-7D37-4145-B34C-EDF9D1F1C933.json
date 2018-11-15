@@ -1,11 +1,11 @@
 {
-  "_class": "shapeGroup",
+  "_class": "shapePath",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6DBE1455-FBF2-4DEE-8566-A95D5B9FDD25",
+  "do_objectID": "8E7F34D7-7D37-4145-B34C-EDF9D1F1C933",
+  "edited": true,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "D3EFDB75-8487-4611-86C4-71BAA157F1BE",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,28 +16,44 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "B9A1C0B4-9C1E-4F92-9582-699BEFDF2D83",
-    "height": 619,
-    "width": 3,
-    "x": 312,
-    "y": 0
+    "height": 0.1,
+    "width": 238,
+    "x": 879,
+    "y": -691
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "isClosed": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": false,
+  "isVisible": true,
   "layerListExpandedType": 1,
-  "layers": [
+  "name": "Line",
+  "nameIsFixed": false,
+  "pointRadiusBehaviour": 1,
+  "points": [
     {
-      "class": "shapePath",
-      "id": "76B6B30D-6F5F-4BF4-9DC3-BFB1B3475AB8"
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.72268907563025198, 3.3333333333333171}",
+      "curveMode": 1,
+      "curveTo": "{-0.72268907563025198, 3.3333333333333171}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.0021008403361344537, 2.4999999999999778}"
+    },
+    {
+      "_class": "curvePoint",
+      "cornerRadius": 0,
+      "curveFrom": "{-0.71848739495798297, 5.0000000000000107}",
+      "curveMode": 1,
+      "curveTo": "{-0.71848739495798297, 5.0000000000000107}",
+      "hasCurveFrom": false,
+      "hasCurveTo": false,
+      "point": "{0.99789915966386677, 2.4999999999999778}"
     }
   ],
-  "name": "Line Copy",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -48,7 +64,6 @@
       "_class": "borderOptions",
       "dashPattern": [
       ],
-      "do_objectID": "05120046-F0D7-4F6E-BB3E-4241E39434D7",
       "isEnabled": false,
       "lineCapStyle": 2,
       "lineJoinStyle": 0
@@ -69,7 +84,6 @@
         "thickness": 3
       }
     ],
-    "do_objectID": "07B9B894-FFFE-4576-8FF8-0D6CE338A327",
     "endMarkerType": 0,
     "fills": [
       {
@@ -92,6 +106,5 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  },
-  "windingRule": 1
+  }
 }
