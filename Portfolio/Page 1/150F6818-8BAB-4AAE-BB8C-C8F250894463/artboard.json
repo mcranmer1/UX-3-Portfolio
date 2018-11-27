@@ -84,20 +84,12 @@
       "id": "28BBD128-AED4-47F3-A87A-CA0D6D7F77C2"
     },
     {
-      "class": "rectangle",
-      "id": "1A5D8178-9505-4303-B9A8-379DD511367A"
-    },
-    {
-      "class": "rectangle",
-      "id": "B966477F-6C56-411E-AC17-57281ECBE3BC"
-    },
-    {
-      "class": "rectangle",
-      "id": "C36C92F5-79BD-409F-B7F7-1FC89D9EC688"
-    },
-    {
       "class": "symbolInstance",
       "id": "6330AA64-6104-41FA-A186-922AC766CB73"
+    },
+    {
+      "class": "bitmap",
+      "id": "7CA35E97-33B6-4F9E-934A-FD544030137F"
     },
     {
       "class": "bitmap",
@@ -105,7 +97,7 @@
     },
     {
       "class": "bitmap",
-      "id": "7CA35E97-33B6-4F9E-934A-FD544030137F"
+      "id": "1FEC43E3-A0A2-4B1A-8C92-0E295CA8EB2D"
     }
   ],
   "layout": {
