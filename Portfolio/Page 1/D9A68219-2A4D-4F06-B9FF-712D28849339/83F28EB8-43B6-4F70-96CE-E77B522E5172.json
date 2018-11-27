@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 8,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 14
+        "location": 8
       }
     ],
-    "string": "Project Title\n\n"
+    "string": "Prepper\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,7 +82,7 @@
     "x": 172,
     "y": 1459
   },
-  "glyphBounds": "{{0, 28}, {881, 266}}",
+  "glyphBounds": "{{0, 28}, {575, 266}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Title Copy",
+  "name": "Prepper",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
