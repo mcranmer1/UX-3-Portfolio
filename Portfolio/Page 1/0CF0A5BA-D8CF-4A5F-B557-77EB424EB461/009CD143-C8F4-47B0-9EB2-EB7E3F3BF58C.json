@@ -26,19 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 488,
+        "length": 40,
         "location": 0
       }
     ],
-    "string": "As a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design is not just about how it looks, it is equally as important to see how someone will interact with it. \r\n\r\nDesign is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n"
+    "string": "madison_cranmer@hotmail.com\n907.230.3126"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B033D24-D7AF-45DF-B312-E182BEF068A1",
+  "do_objectID": "009CD143-C8F4-47B0-9EB2-EB7E3F3BF58C",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "680609CE-9EE5-42E2-9230-11034022847C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 878,
+    "do_objectID": "6F4E8B8B-2C7B-42C1-9632-43DFD704BD10",
+    "height": 263,
     "width": 2005,
-    "x": 182,
-    "y": 1537
+    "x": 171,
+    "y": 2436
   },
-  "glyphBounds": "{{-1, 16}, {1941, 799}}",
+  "glyphBounds": "{{2, 16}, {964, 138}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,19 +65,22 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "As a UX Designer at",
+  "name": "madison_cranmer@hotm",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "BFFDAF80-5309-4C65-8DFD-A96E69DD2358",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "AB71D220-DCBD-4886-8C18-6EA29774A8BC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "BA6E4528-F97F-4386-B6EB-7CE8AE303AA6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

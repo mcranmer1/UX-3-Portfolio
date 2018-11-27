@@ -9,36 +9,37 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 68
+              "name": "PTSans-CaptionBold",
+              "size": 200
             }
           },
           "paragraphStyle": {
             "_class": "paragraphStyle",
-            "alignment": 0
+            "alignment": 1
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 488,
+        "length": 24,
         "location": 0
       }
     ],
-    "string": "As a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design is not just about how it looks, it is equally as important to see how someone will interact with it. \r\n\r\nDesign is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n"
+    "string": "visionist\ndreamer\ndoer \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B033D24-D7AF-45DF-B312-E182BEF068A1",
+  "do_objectID": "0D8BF0C2-3EEE-408A-B5F2-44EF347E3B62",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "138DC62F-ECD0-493B-B1FF-38B70448300B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,12 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 878,
-    "width": 2005,
-    "x": 182,
-    "y": 1537
+    "do_objectID": "64D996F0-ABF4-429A-8E59-177FF5E615A1",
+    "height": 1166,
+    "width": 2002,
+    "x": 2915,
+    "y": 1886
   },
-  "glyphBounds": "{{-1, 16}, {1941, 799}}",
+  "glyphBounds": "{{1175, 37}, {827, 616}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,37 +65,40 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "As a UX Designer at",
+  "name": "visionist dreamer do",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "12F58BA8-0511-4EDF-B5B2-C7C1BC4A56C1",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "A7F34B53-0B8E-4996-A122-B0484C9F7774",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "85B7B443-F4F5-4740-BE3A-9CEF58EAE91D",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2196078431372549,
+          "green": 0.1058823529411764,
+          "red": 0.05490196078431372
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 68
+            "name": "PTSans-CaptionBold",
+            "size": 200
           }
         },
         "paragraphStyle": {
           "_class": "paragraphStyle",
-          "alignment": 0
+          "alignment": 1
         },
         "textStyleVerticalAlignmentKey": 0
       },

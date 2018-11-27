@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 237,
+        "length": 424,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 237
+        "location": 424
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
+    "string": "The need for food prep has become more and more of a necessity in today’s busy world.bLuckily for those who don’t know where to start, or those who feel like food prepping is out of their realm of understanding, there is an app here to save them. “Prepper” is a food prep app started by four hungry college kids from the Pacific Northwest, who had struggles finding the exact right app that suited their dietary needs. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "51842DEC-EF72-4352-8485-C4246C260B75",
-    "height": 372,
+    "height": 604,
     "width": 1972,
     "x": 186,
     "y": 442
   },
-  "glyphBounds": "{{0, 16}, {1931, 543}}",
+  "glyphBounds": "{{0, 16}, {1953, 792}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si",
+  "name": "The need for food pr",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

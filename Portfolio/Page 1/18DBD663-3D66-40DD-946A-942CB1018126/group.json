@@ -2,7 +2,7 @@
   "_class": "group",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC15319B-F636-4E2D-A0FD-274457552E99",
+  "do_objectID": "18DBD663-3D66-40DD-946A-942CB1018126",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,10 +15,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1456,
-    "width": 2310,
-    "x": 2623,
-    "y": 308
+    "height": 1093,
+    "width": 1547,
+    "x": -1782,
+    "y": 11022
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -31,14 +31,14 @@
   "layers": [
     {
       "class": "rectangle",
-      "id": "6B078CEE-712C-4791-A6DF-DC053CE8F7C8"
+      "id": "377B8F22-0F4F-4D17-867D-B94411446F21"
     },
     {
       "class": "bitmap",
-      "id": "89535861-65C4-4EEC-8E4C-B1D9CDF062DB"
+      "id": "E91C479E-7D07-4970-A56C-090FD9A84395"
     }
   ],
-  "name": "Screen Shot 2018-11-15 at 12.18.34 PM",
+  "name": "Screen Shot 2018-11-15 at 12.33.53 PM",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

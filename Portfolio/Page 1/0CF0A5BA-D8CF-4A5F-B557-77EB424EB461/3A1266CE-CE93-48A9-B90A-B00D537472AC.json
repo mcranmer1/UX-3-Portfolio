@@ -26,19 +26,46 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 488,
+        "length": 507,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 50
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 2,
+        "location": 507
       }
     ],
-    "string": "As a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design is not just about how it looks, it is equally as important to see how someone will interact with it. \r\n\r\nDesign is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this line of work and thrilled to have the ability to live out my dream. \r\n"
+    "string": "Design is self-expression and every piece I create, research, and explore is a piece of me. I have always felt a gravitational pull to this work and thrilled to have the ability to live out my dream. \r\n\r\nAs a UX Designer at Eastern Washington University I have researched how a person would be affected by design through prototyping, wire frames, and usability testing. Design cannot only be successful with how it looks, it is equally important to see how someone will interact and feel about your design. \r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "9B033D24-D7AF-45DF-B312-E182BEF068A1",
+  "do_objectID": "3A1266CE-CE93-48A9-B90A-B00D537472AC",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "6DC2BF5E-B29A-45A5-A844-F3C000B7C673",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -49,33 +76,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 878,
-    "width": 2005,
-    "x": 182,
-    "y": 1537
+    "do_objectID": "991C8AF1-9387-4B4C-9A1F-0503C1BA21A9",
+    "height": 834,
+    "width": 2002,
+    "x": 179,
+    "y": 1640
   },
-  "glyphBounds": "{{-1, 16}, {1941, 799}}",
+  "glyphBounds": "{{-1, 16}, {1980, 730}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "As a UX Designer at",
+  "name": "Design is self-expre",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "sharedStyleID": "501F9018-E9B4-4AAC-8F96-E6E402B9B313",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "93760A64-E16C-46A3-9C60-673EBB7B2B01",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
+      "do_objectID": "B10947EC-4423-44A2-AB4F-51685EEAEBE3",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",

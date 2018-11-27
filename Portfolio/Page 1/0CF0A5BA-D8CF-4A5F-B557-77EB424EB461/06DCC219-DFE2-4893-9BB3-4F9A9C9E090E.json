@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC15319B-F636-4E2D-A0FD-274457552E99",
+  "do_objectID": "06DCC219-DFE2-4893-9BB3-4F9A9C9E090E",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "9EDADC31-5894-4A02-B377-B0D4E438B00A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,40 +16,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1456,
-    "width": 2310,
-    "x": 2623,
-    "y": 308
+    "do_objectID": "6E50B175-A96A-47BC-9DEE-1D36A1170489",
+    "height": 107,
+    "width": 626,
+    "x": 864,
+    "y": 2814
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
+  "name": "button/Main Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
     {
-      "class": "rectangle",
-      "id": "6B078CEE-712C-4791-A6DF-DC053CE8F7C8"
-    },
-    {
-      "class": "bitmap",
-      "id": "89535861-65C4-4EEC-8E4C-B1D9CDF062DB"
+      "_class": "overrideValue",
+      "do_objectID": "368580A4-E61B-47A1-9D8D-8B26C6478DD0",
+      "overrideName": "3B9DE739-D44A-4269-833C-D9D2C6481728_stringValue",
+      "value": "Github"
     }
   ],
-  "name": "Screen Shot 2018-11-15 at 12.18.34 PM",
-  "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "7FBACDBF-597F-4100-B8F7-C3BE08253A7A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "9A8E6BFD-0B94-41A9-AFDE-76E844E3FA44",
+  "verticalSpacing": 0
 }

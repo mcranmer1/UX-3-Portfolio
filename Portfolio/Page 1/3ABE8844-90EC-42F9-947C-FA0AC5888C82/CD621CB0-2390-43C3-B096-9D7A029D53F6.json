@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 6,
+        "length": 9,
         "location": 0
       }
     ],
-    "string": "hello."
+    "string": "about me."
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -50,11 +50,11 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1024,
-    "width": 2609,
+    "width": 4854,
     "x": 128,
     "y": -4
   },
-  "glyphBounds": "{{64, 180}, {2394, 645}}",
+  "glyphBounds": "{{27, 180}, {4375, 645}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "hello.",
+  "name": "about me.",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

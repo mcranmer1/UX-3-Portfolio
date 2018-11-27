@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 175,
+        "length": 177,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 175
+        "location": 177
       }
     ],
-    "string": "Project Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
+    "string": "Project Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\n\n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -81,12 +81,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "B4620F62-4227-4765-B8F6-2E2CE02A9AC3",
-    "height": 1242,
+    "height": 1402,
     "width": 621,
     "x": 180,
-    "y": 884
+    "y": 1098
   },
-  "glyphBounds": "{{0, 44}, {473, 1451}}",
+  "glyphBounds": "{{0, 44}, {473, 1731}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

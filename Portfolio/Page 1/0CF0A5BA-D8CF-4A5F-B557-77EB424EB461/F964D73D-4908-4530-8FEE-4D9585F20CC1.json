@@ -1,10 +1,11 @@
 {
-  "_class": "group",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC15319B-F636-4E2D-A0FD-274457552E99",
+  "do_objectID": "F964D73D-4908-4530-8FEE-4D9585F20CC1",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "C8338C33-AC00-4CF5-8645-4B1D5C18D6DC",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,40 +16,37 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1456,
-    "width": 2310,
-    "x": 2623,
-    "y": 308
+    "do_objectID": "2F9C6218-73FB-4AE4-8E13-25F3E3B8DDFB",
+    "height": 107,
+    "width": 626,
+    "x": 178,
+    "y": 2814
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "6B078CEE-712C-4791-A6DF-DC053CE8F7C8"
-    },
-    {
-      "class": "bitmap",
-      "id": "89535861-65C4-4EEC-8E4C-B1D9CDF062DB"
-    }
-  ],
-  "name": "Screen Shot 2018-11-15 at 12.18.34 PM",
+  "name": "button/Main",
   "nameIsFixed": false,
+  "overrideValues": [
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "5738B62C-0A8A-4E38-B61B-6E630895DFAE",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "9A8E6BFD-0B94-41A9-AFDE-76E844E3FA44",
+  "verticalSpacing": 0
 }

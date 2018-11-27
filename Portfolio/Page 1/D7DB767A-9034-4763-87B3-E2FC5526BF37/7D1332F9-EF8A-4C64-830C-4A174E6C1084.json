@@ -1,8 +1,9 @@
 {
-  "_class": "group",
+  "_class": "bitmap",
   "booleanOperation": -1,
+  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "DC15319B-F636-4E2D-A0FD-274457552E99",
+  "do_objectID": "7D1332F9-EF8A-4C64-830C-4A174E6C1084",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -12,37 +13,33 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
+  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": false,
-    "height": 1456,
-    "width": 2310,
-    "x": 2623,
-    "y": 308
+    "constrainProportions": true,
+    "height": 604,
+    "width": 943,
+    "x": 2772,
+    "y": 1445
   },
-  "hasClickThrough": false,
   "hasClippingMask": false,
+  "image": {
+    "_class": "MSJSONFileReference",
+    "_ref": "images/5b1441194d8b88a90b0a2f2d41c09daeffef234c.png",
+    "_ref_class": "MSImageData"
+  },
+  "intendedDPI": 144,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "layers": [
-    {
-      "class": "rectangle",
-      "id": "6B078CEE-712C-4791-A6DF-DC053CE8F7C8"
-    },
-    {
-      "class": "bitmap",
-      "id": "89535861-65C4-4EEC-8E4C-B1D9CDF062DB"
-    }
-  ],
-  "name": "Screen Shot 2018-11-15 at 12.18.34 PM",
+  "name": "BookScanCenter_8",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": 0,
+  "rotation": -90,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
