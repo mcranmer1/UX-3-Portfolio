@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "66EC876D-D2B3-46EA-96AD-BA6659685B75",
+  "do_objectID": "FCE9122C-6849-4BF6-8592-9726F223B699",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 3092,
-    "width": 1637,
-    "x": 1785,
-    "y": 104
+    "height": 2524,
+    "width": 1408,
+    "x": 2927,
+    "y": 639
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/f8dee387ed8a835651841687fc21061d87e0986c.png",
+    "_ref": "images/463e55aa055d67d9bb19a91af97a3cd1c8744712.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 144,
@@ -35,7 +35,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Prepper",
+  "name": "PrepperRecipe",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
