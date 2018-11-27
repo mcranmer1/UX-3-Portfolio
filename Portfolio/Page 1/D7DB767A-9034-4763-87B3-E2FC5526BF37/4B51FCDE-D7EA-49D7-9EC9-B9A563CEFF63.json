@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 237,
+        "length": 358,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 237
+        "location": 358
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
+    "string": "Paying bills can be stressful, especially when there are different companies you have to pay, different due dates, and having to sign in to each individual website to pay. Why not make this more simple? That is what Paybee is for. Paybee takes away the hassle of remembering all your logins because it is now all in one place. Life made easier for you. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -77,12 +77,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "DA4414BD-68DF-4BDC-B5D0-38FD178C3C1A",
-    "height": 570,
+    "height": 774,
     "width": 1314,
     "x": 175,
-    "y": 380
+    "y": 345
   },
-  "glyphBounds": "{{0, 16}, {1307, 709}}",
+  "glyphBounds": "{{-1, 16}, {1304, 958}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si Copy",
+  "name": "Paying bills can be",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

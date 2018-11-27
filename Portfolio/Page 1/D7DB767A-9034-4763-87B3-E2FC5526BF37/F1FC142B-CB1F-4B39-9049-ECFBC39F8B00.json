@@ -28,8 +28,36 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 41,
+        "length": 78,
         "location": 0
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 1,
+        "location": 78
       },
       {
         "_class": "stringAttribute",
@@ -51,16 +79,72 @@
           "paragraphStyle": {
             "_class": "paragraphStyle",
             "alignment": 0,
-            "maximumLineHeight": 89,
-            "minimumLineHeight": 89
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 86,
-        "location": 41
+        "length": 2,
+        "location": 79
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "LucidaGrande",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 4,
+        "location": 81
+      },
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 1,
+            "green": 1,
+            "red": 1
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "Charter-Roman",
+              "size": 68
+            }
+          },
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "maximumLineHeight": 140,
+            "minimumLineHeight": 140
+          },
+          "textStyleVerticalAlignmentKey": 0
+        },
+        "length": 53,
+        "location": 85
       }
     ],
-    "string": "SPACED\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company \n\nA website that reflect the brand \nvision \n"
+    "string": "To streamline paying bills\nNone\nApril 2018 - May 2018\nPrototype the Paybee app        Provide UX research to ensure proficiency of the app"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -84,9 +168,9 @@
     "height": 914,
     "width": 1119,
     "x": 2228,
-    "y": 170
+    "y": 196
   },
-  "glyphBounds": "{{-1, 74}, {966, 824}}",
+  "glyphBounds": "{{-1, 44}, {893, 766}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +179,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "SPACED Epicurrance A",
+  "name": "To streamline paying",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
