@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 14,
+        "length": 42,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 14
+        "location": 42
       }
     ],
-    "string": "Project Title\n\n"
+    "string": "EWU User Experience Design Responsive Web\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -78,11 +78,11 @@
     "constrainProportions": false,
     "do_objectID": "190193AA-565D-4C3E-A5F5-DE0A5BEBA36C",
     "height": 167,
-    "width": 1960,
-    "x": 3522,
+    "width": 3911,
+    "x": 1571,
     "y": 2620
   },
-  "glyphBounds": "{{0, 28}, {881, 266}}",
+  "glyphBounds": "{{0, 28}, {3299, 266}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Title Copy",
+  "name": "EWU User Experience",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -19,7 +19,7 @@
     "do_objectID": "369350E4-EFBF-4D6D-9843-E83001F20F0B",
     "height": 120,
     "width": 626,
-    "x": 3522,
+    "x": 2714,
     "y": 2855
   },
   "hasClippingMask": false,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "C7FA177F-1089-4708-8EED-9455A27C26EF",
       "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Prototype"
+      "value": "Web"
     }
   ],
   "resizingConstraint": 63,

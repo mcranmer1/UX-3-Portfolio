@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 200,
+        "length": 299,
         "location": 0
       }
     ],
-    "string": "To space and back, safely\nEpicurrance\nApril 2018 - May 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
+    "string": "To create a responsive design template for mobile, web, and tablet viewing. \nEastern Washington University Design\nJanuary 2018 - February 2018\nCreate a logo that represents the company\nA website that reflect the bran vision\nWeb, Mobile, Tablet\nSketch & Invision\nMadison Cranmer, UX Designer (myself)"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -55,10 +55,10 @@
     "do_objectID": "3C3DF3EA-D2EF-4DA9-8659-1C545B4F29E3",
     "height": 1242,
     "width": 1314,
-    "x": 3725,
-    "y": 910
+    "x": 3731,
+    "y": 1125
   },
-  "glyphBounds": "{{-1, 44}, {1258, 1046}}",
+  "glyphBounds": "{{-1, 44}, {1258, 1186}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -67,7 +67,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "To space and back, s Copy",
+  "name": "To create a responsi",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

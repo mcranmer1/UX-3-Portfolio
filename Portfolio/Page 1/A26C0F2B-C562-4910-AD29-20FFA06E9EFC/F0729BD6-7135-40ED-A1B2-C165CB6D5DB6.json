@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 175,
+        "length": 176,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 175
+        "location": 176
       }
     ],
-    "string": "Project Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
+    "string": "Project Tagline:\n\nClient Name:\nTimeframe:                 \nResponsibilities:         \n\nPlatforms:\t\t                  \nDesign Tools:               \nTeam Members:           \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -83,10 +83,10 @@
     "do_objectID": "B1BDDD5D-E69E-4C42-8232-B5FF9D68A461",
     "height": 1242,
     "width": 621,
-    "x": 3043,
-    "y": 910
+    "x": 3049,
+    "y": 1125
   },
-  "glyphBounds": "{{0, 44}, {473, 1451}}",
+  "glyphBounds": "{{0, 44}, {473, 1591}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Project Tagline: Cli Copy",
+  "name": "Project Tagline: Cli",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -28,39 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 125,
         "location": 0
-      },
-      {
-        "_class": "stringAttribute",
-        "attributes": {
-          "MSAttributedStringColorAttribute": {
-            "_class": "color",
-            "alpha": 1,
-            "blue": 1,
-            "green": 1,
-            "red": 1
-          },
-          "MSAttributedStringFontAttribute": {
-            "_class": "fontDescriptor",
-            "attributes": {
-              "name": "Charter-Roman",
-              "size": 68
-            }
-          },
-          "paragraphStyle": {
-            "_class": "paragraphStyle",
-            "alignment": 0,
-            "maximumLineHeight": 89,
-            "minimumLineHeight": 89
-          },
-          "textStyleVerticalAlignmentKey": 0
-        },
-        "length": 86,
-        "location": 40
       }
     ],
-    "string": "\nAmazon\nLate Feb. 2018 - Mid March 2018\nCreate a logo that represents the company \n\nA website that reflect the brand \nvision \n"
+    "string": "\nAmazon\nLate Feb. 2018 - Mid March 2018\nCreate a logo that represents the company \nA website that reflect the brand \nvision \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -81,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EADF3305-48CF-448D-B585-2DC85B2E420B",
-    "height": 914,
+    "height": 1023,
     "width": 1119,
     "x": 2224,
-    "y": 2251
+    "y": 2277
   },
-  "glyphBounds": "{{-1, 121}, {987, 777}}",
+  "glyphBounds": "{{-1, 95}, {987, 841}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

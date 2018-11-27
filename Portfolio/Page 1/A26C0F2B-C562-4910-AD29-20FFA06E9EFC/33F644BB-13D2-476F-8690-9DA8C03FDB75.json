@@ -56,7 +56,7 @@
         "location": 237
       }
     ],
-    "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. \r\n\r\n\n\r\n"
+    "string": "To build a prototype of a website that accentuates the work students in the User Experience Design Certificate are achieving, Secondly to inform the audience on what students are learning in the program and doing in the classroom.  \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -79,10 +79,10 @@
     "do_objectID": "7BABBA89-67FD-499D-9729-572D70D7F6F8",
     "height": 372,
     "width": 1972,
-    "x": 3049,
-    "y": 468.0000000000001
+    "x": 3055,
+    "y": 683
   },
-  "glyphBounds": "{{0, 16}, {1931, 543}}",
+  "glyphBounds": "{{0, 16}, {1944, 543}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -91,7 +91,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Lorem ipsum dolor si Copy",
+  "name": "To build a prototype",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

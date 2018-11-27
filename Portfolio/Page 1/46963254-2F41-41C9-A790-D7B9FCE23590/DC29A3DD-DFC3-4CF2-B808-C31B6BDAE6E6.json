@@ -19,7 +19,7 @@
     "do_objectID": "83D13E3D-81DF-4903-AEF2-C140C14527EC",
     "height": 120,
     "width": 626,
-    "x": 4220,
+    "x": 4228,
     "y": 2855
   },
   "hasClippingMask": false,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
       "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Medium Post"
+      "value": "Mobile"
     }
   ],
   "resizingConstraint": 63,
