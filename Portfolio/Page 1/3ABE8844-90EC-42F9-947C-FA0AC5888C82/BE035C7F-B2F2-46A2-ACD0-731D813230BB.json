@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 150
+              "size": 100
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,20 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 15,
+        "length": 10,
         "location": 0
       }
     ],
-    "string": "Madison Cranmer"
+    "string": "Contact Me"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "6BC38914-B8BF-40FA-89CA-003003E982B6",
+  "do_objectID": "BE035C7F-B2F2-46A2-ACD0-731D813230BB",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "0735A9BD-1EE6-40B9-A89C-CD8AFB993196",
+    "do_objectID": "445310CE-0878-42D2-BA5A-DDABE397880E",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +50,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "9DE9611A-9623-4AAC-9A2F-D241BD5BE05C",
-    "height": 200,
-    "width": 2002,
-    "x": 176,
-    "y": 1285
+    "do_objectID": "A16C348B-810F-461D-BA65-D175C744FEEE",
+    "height": 128,
+    "width": 1280,
+    "x": 180,
+    "y": 2387
   },
-  "glyphBounds": "{{9, 27}, {1273, 111}}",
+  "glyphBounds": "{{4, 18}, {536, 74}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,7 +65,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Madison Cranmer",
+  "name": "Contact Me",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -74,13 +74,13 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "5392503D-790C-4724-A1DE-55224E8BB6D1",
+    "do_objectID": "46BBCC8A-885D-46DA-AE94-9767087DE53C",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "AA545056-7844-46A5-AFF0-0032B638E844",
+      "do_objectID": "58F6B272-1336-42E4-B594-7DF7CF62E430",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
@@ -93,7 +93,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 150
+            "size": 100
           }
         },
         "paragraphStyle": {

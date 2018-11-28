@@ -9,15 +9,15 @@
           "MSAttributedStringColorAttribute": {
             "_class": "color",
             "alpha": 1,
-            "blue": 0,
-            "green": 0,
-            "red": 0
+            "blue": 0.2196078431372549,
+            "green": 0.1058823529411764,
+            "red": 0.05490196078431372
           },
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "Charter-Roman",
-              "size": 68
+              "name": "PTSans-CaptionBold",
+              "size": 140
             }
           },
           "paragraphStyle": {
@@ -26,20 +26,19 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 31,
         "location": 0
       }
     ],
-    "string": "madison_cranmer@hotmail.com\n907.230.3126"
+    "string": "visionary     doer     designer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "009CD143-C8F4-47B0-9EB2-EB7E3F3BF58C",
+  "do_objectID": "9BFA4A90-5EF6-4678-BB77-FE7020763DEA",
   "dontSynchroniseWithSymbol": false,
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "680609CE-9EE5-42E2-9230-11034022847C",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -50,13 +49,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "6F4E8B8B-2C7B-42C1-9632-43DFD704BD10",
-    "height": 263,
-    "width": 2005,
-    "x": 171,
-    "y": 2436
+    "height": 183,
+    "width": 1969,
+    "x": 3030,
+    "y": 2589
   },
-  "glyphBounds": "{{2, 16}, {964, 138}}",
+  "glyphBounds": "{{-2, 26}, {1918, 129}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -65,35 +63,32 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "madison_cranmer@hotm",
+  "name": "visionary doer desig",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "sharedStyleID": "BFFDAF80-5309-4C65-8DFD-A96E69DD2358",
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "AB71D220-DCBD-4886-8C18-6EA29774A8BC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "textStyle": {
       "_class": "textStyle",
-      "do_objectID": "BA6E4528-F97F-4386-B6EB-7CE8AE303AA6",
       "encodedAttributes": {
         "MSAttributedStringColorAttribute": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0,
-          "green": 0,
-          "red": 0
+          "blue": 0.2196078431372549,
+          "green": 0.1058823529411764,
+          "red": 0.05490196078431372
         },
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "Charter-Roman",
-            "size": 68
+            "name": "PTSans-CaptionBold",
+            "size": 140
           }
         },
         "paragraphStyle": {

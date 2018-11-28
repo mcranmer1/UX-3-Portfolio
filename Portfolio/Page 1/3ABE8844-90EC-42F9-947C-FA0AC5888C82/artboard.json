@@ -81,7 +81,19 @@
     },
     {
       "class": "text",
-      "id": "6BC38914-B8BF-40FA-89CA-003003E982B6"
+      "id": "BE035C7F-B2F2-46A2-ACD0-731D813230BB"
+    },
+    {
+      "class": "text",
+      "id": "009CD143-C8F4-47B0-9EB2-EB7E3F3BF58C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F964D73D-4908-4530-8FEE-4D9585F20CC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06DCC219-DFE2-4893-9BB3-4F9A9C9E090E"
     }
   ],
   "layout": {

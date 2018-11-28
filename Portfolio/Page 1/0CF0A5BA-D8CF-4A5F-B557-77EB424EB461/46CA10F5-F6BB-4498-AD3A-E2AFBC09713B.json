@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 300
+              "size": 425
             }
           },
           "paragraphStyle": {
@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 20,
+        "length": 22,
         "location": 0
       },
       {
@@ -53,7 +53,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 20
+        "location": 22
       },
       {
         "_class": "stringAttribute",
@@ -79,10 +79,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 21
+        "location": 23
       }
     ],
-    "string": "I am Madison Cranmer\n\n"
+    "string": "I am \nMadison \nCranmer\n\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -103,12 +103,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "AFF4EF8B-9928-41F1-A7FF-981447CF5574",
-    "height": 329,
-    "width": 3803,
-    "x": 166,
-    "y": 1049.25
+    "height": 1426,
+    "width": 1897,
+    "x": 3030,
+    "y": 955
   },
-  "glyphBounds": "{{0, 55}, {3301, 340}}",
+  "glyphBounds": "{{0, 84}, {1766, 1455}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -145,7 +145,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 300
+            "size": 425
           }
         },
         "paragraphStyle": {
