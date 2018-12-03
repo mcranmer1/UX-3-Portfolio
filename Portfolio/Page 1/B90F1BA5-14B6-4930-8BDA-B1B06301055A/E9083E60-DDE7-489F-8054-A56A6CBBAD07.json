@@ -2,9 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "354EA75B-F504-41EE-A5C8-C4E1575A2EDB",
+  "do_objectID": "E9083E60-DDE7-489F-8054-A56A6CBBAD07",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "8F1B105A-D6FA-416F-BC69-203BEE1DA032",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -15,10 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "5F0805E8-88C7-41CF-BFDF-52A55B7082B9",
     "height": 120,
     "width": 626,
-    "x": 172,
-    "y": 1694
+    "x": 870,
+    "y": 3059
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -28,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ButtonWhite ",
+  "name": "ButtonWhite  Copy",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "C7FA177F-1089-4708-8EED-9455A27C26EF",
+      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
       "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Prototype"
+      "value": "Evaluation PDF"
     }
   ],
   "resizingConstraint": 63,
@@ -45,6 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "do_objectID": "4D938EC0-2933-4745-8EE1-56A36A49405B",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

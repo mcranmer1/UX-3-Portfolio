@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 274,
+        "length": 267,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 274
+        "location": 267
       }
     ],
-    "string": "Amazon is a large corporations sweeping the nation, but their app can be difficult to navigate and use. By evaluating problems through the heuristic evaluation I identified flaws in the flow and design of the app and took those issues and solve them with the redesign. \r\n\r\n\n\r\n"
+    "string": "Amazon is a large corporation, but their app can be difficult to navigate and use. By evaluating problems through the heuristic evaluation I identified flaws in the flow and design of the app and redid the issue found to create a better experience for the user. \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,7 +82,7 @@
     "x": 174,
     "y": 2418
   },
-  "glyphBounds": "{{-1, 16}, {1296, 792}}",
+  "glyphBounds": "{{-1, 16}, {1297, 709}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

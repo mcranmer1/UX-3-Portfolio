@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 424,
+        "length": 313,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 424
+        "location": 313
       }
     ],
-    "string": "The need for food prep has become more and more of a necessity in today’s busy world.bLuckily for those who don’t know where to start, or those who feel like food prepping is out of their realm of understanding, there is an app here to save them. “Prepper” is a food prep app started by four hungry college kids from the Pacific Northwest, who had struggles finding the exact right app that suited their dietary needs. \r\n\r\n\n\r\n"
+    "string": "The need for food prep has become more of a necessity in today’s busy world.Luckily for those who don’t know where to start, or those who feel like food prepping is out of their realm of understanding, there is an app here to save them. There is now and app that helps people who struggle with dietary needs.\r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -82,7 +82,7 @@
     "x": 186,
     "y": 442
   },
-  "glyphBounds": "{{0, 16}, {1953, 792}}",
+  "glyphBounds": "{{0, 16}, {1937, 626}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 40,
+        "length": 61,
         "location": 0
       }
     ],
-    "string": "madison_cranmer@hotmail.com\n907.230.3126"
+    "string": "madison_cranmer@hotmail.com\n907.230.3126\nwww.madi-designs.com"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -56,7 +56,7 @@
     "x": 181,
     "y": 2539
   },
-  "glyphBounds": "{{2, 16}, {964, 138}}",
+  "glyphBounds": "{{-1, 16}, {967, 232}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

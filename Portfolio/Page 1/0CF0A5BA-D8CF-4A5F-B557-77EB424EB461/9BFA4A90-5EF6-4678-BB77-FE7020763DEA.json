@@ -17,7 +17,7 @@
             "_class": "fontDescriptor",
             "attributes": {
               "name": "PTSans-CaptionBold",
-              "size": 140
+              "size": 132
             }
           },
           "paragraphStyle": {
@@ -26,11 +26,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 31,
+        "length": 33,
         "location": 0
       }
     ],
-    "string": "visionary     doer     designer"
+    "string": "storyteller     doer     designer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -52,9 +52,9 @@
     "height": 183,
     "width": 1969,
     "x": 3030,
-    "y": 2589
+    "y": 2596
   },
-  "glyphBounds": "{{-2, 26}, {1918, 129}}",
+  "glyphBounds": "{{4, 24}, {1893, 123}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -63,7 +63,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "visionary doer desig",
+  "name": "storyteller doer des",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -88,7 +88,7 @@
           "_class": "fontDescriptor",
           "attributes": {
             "name": "PTSans-CaptionBold",
-            "size": 140
+            "size": 132
           }
         },
         "paragraphStyle": {

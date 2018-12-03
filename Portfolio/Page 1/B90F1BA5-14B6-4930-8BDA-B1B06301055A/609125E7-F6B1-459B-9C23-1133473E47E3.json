@@ -28,7 +28,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 91,
+        "length": 82,
         "location": 0
       },
       {
@@ -57,10 +57,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 91
+        "location": 82
       }
     ],
-    "string": "Tagline:\nClient Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
+    "string": "Client Name:\nTimeframe:                 \nResponsibilities:                   \r\n\r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -86,7 +86,7 @@
     "x": 1603,
     "y": 2277
   },
-  "glyphBounds": "{{0, 44}, {473, 891}}",
+  "glyphBounds": "{{0, 44}, {473, 751}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -95,7 +95,7 @@
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Tagline: Client Name",
+  "name": "Client Name: Timefra",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "DC29A3DD-DFC3-4CF2-B808-C31B6BDAE6E6",
+  "do_objectID": "1A09D7FF-E91B-4C27-B335-DA09390F1339",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "3DEF14AF-60C7-4780-A559-EDF810B3726A",
+    "do_objectID": "30DF9F1B-EC23-4369-A08F-4CAB539A375F",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "83D13E3D-81DF-4903-AEF2-C140C14527EC",
+    "do_objectID": "369350E4-EFBF-4D6D-9843-E83001F20F0B",
     "height": 120,
     "width": 626,
-    "x": 4228,
-    "y": 2855
+    "x": 2992,
+    "y": 2558
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -30,14 +30,14 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "ButtonWhite  Copy",
+  "name": "ButtonWhite ",
   "nameIsFixed": false,
   "overrideValues": [
     {
       "_class": "overrideValue",
-      "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
+      "do_objectID": "C7FA177F-1089-4708-8EED-9455A27C26EF",
       "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Mobile"
+      "value": "Web Prototype"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "F9EF3066-CF73-46C9-AD03-C1A5E7FB02D6",
+    "do_objectID": "18C1BB98-1603-48BC-8DA9-C851DC6EC27A",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

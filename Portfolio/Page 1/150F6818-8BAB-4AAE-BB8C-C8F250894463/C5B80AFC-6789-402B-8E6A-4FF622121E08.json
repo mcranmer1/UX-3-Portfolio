@@ -26,7 +26,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 347,
+        "length": 348,
         "location": 0
       },
       {
@@ -53,10 +53,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 2,
-        "location": 347
+        "location": 348
       }
     ],
-    "string": "SPACED is a space travel company that keeps customers safety and comfort in mind. My job was to create a website that allows customers to book travel efficiently and to learn about the many different destinations available to travel to. The logo was created to encompass the essence and mission of SPACED, which is to proved safe space travel. \r\n\n\r\n"
+    "string": "SPACED is a space travel company that keeps customers safety and comfort in mind. My job was to create a website that allows customers to book travel efficiently and to learn about the many different destinations available to travel to. The logo was created to encompass the essence and mission of SPACED, which is to provide safe space travel. \r\n\n\r\n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,

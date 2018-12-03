@@ -2,10 +2,10 @@
   "_class": "symbolInstance",
   "booleanOperation": -1,
   "clippingMaskMode": 0,
-  "do_objectID": "5F2990F1-12D3-4601-8744-3635BB136C46",
+  "do_objectID": "DC29A3DD-DFC3-4CF2-B808-C31B6BDAE6E6",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "FF34B857-F538-43B1-97DF-DCE98172B632",
+    "do_objectID": "3DEF14AF-60C7-4780-A559-EDF810B3726A",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -16,11 +16,11 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "do_objectID": "C2148CE6-6E92-4A80-9113-D9D935EE1B02",
+    "do_objectID": "83D13E3D-81DF-4903-AEF2-C140C14527EC",
     "height": 120,
     "width": 626,
-    "x": 870,
-    "y": 1694
+    "x": 4369,
+    "y": 2558
   },
   "hasClippingMask": false,
   "horizontalSpacing": 0,
@@ -37,7 +37,7 @@
       "_class": "overrideValue",
       "do_objectID": "59B7E29E-C88D-4A2E-84D1-66D4741CACE2",
       "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
-      "value": "Medium Post"
+      "value": "Mobile Prototype"
     }
   ],
   "resizingConstraint": 63,
@@ -47,7 +47,7 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "A24A19FE-F386-4613-AE3C-57E6F8E6AA7A",
+    "do_objectID": "F9EF3066-CF73-46C9-AD03-C1A5E7FB02D6",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -98,6 +98,14 @@
     {
       "class": "bitmap",
       "id": "1FEC43E3-A0A2-4B1A-8C92-0E295CA8EB2D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "354EA75B-F504-41EE-A5C8-C4E1575A2EDB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5F2990F1-12D3-4601-8744-3635BB136C46"
     }
   ],
   "layout": {

@@ -98,6 +98,14 @@
     {
       "class": "group",
       "id": "DC15319B-F636-4E2D-A0FD-274457552E99"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "023D1B41-D6A2-4BC9-963D-E1F69B49FFA8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9083E60-DDE7-489F-8054-A56A6CBBAD07"
     }
   ],
   "layout": {

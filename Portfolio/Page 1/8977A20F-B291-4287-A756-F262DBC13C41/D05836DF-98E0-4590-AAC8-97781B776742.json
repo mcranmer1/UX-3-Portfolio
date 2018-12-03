@@ -84,7 +84,7 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 34,
+        "length": 8,
         "location": 129
       },
       {
@@ -112,8 +112,8 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 2,
-        "location": 163
+        "length": 1,
+        "location": 137
       },
       {
         "_class": "stringAttribute",
@@ -141,7 +141,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 41,
-        "location": 165
+        "location": 138
       },
       {
         "_class": "stringAttribute",
@@ -169,7 +169,7 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 1,
-        "location": 206
+        "location": 179
       },
       {
         "_class": "stringAttribute",
@@ -197,10 +197,10 @@
           "textStyleVerticalAlignmentKey": 0
         },
         "length": 141,
-        "location": 207
+        "location": 180
       }
     ],
-    "string": "The prep app you never knew you needed.\nNone\nMay 2018 - June 2018\nTo simplify the meal prep experience with an easy-to-use app           \nBuild a brand for Prepper  \nUtilize user research to enhance the app \nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself); Alicia Villa, UX Designer; Bailey Webb, UX Designer; Kaitlyn Cross, UX Designer"
+    "string": "The prep app you never knew you needed.\nNone\nMay 2018 - June 2018\nTo simplify the meal prep experience with an easy-to-use app            \nUtilize user research to enhance the app \nWeb\nSketch & Invision\nMadison Cranmer, UX Designer (myself); Alicia Villa, UX Designer; Bailey Webb, UX Designer; Kaitlyn Cross, UX Designer"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -223,10 +223,10 @@
     "do_objectID": "77B86C52-5E2B-4582-B9EB-E43E3CB5A97B",
     "height": 1689,
     "width": 1314,
-    "x": 862,
-    "y": 1098
+    "x": 864,
+    "y": 953
   },
-  "glyphBounds": "{{-1, 44}, {1262, 1606}}",
+  "glyphBounds": "{{-1, 44}, {1262, 1466}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,

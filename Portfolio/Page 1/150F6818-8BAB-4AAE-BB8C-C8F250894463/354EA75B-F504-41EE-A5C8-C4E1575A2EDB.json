@@ -1,9 +1,8 @@
 {
-  "_class": "bitmap",
+  "_class": "symbolInstance",
   "booleanOperation": -1,
-  "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "E91C479E-7D07-4970-A56C-090FD9A84395",
+  "do_objectID": "354EA75B-F504-41EE-A5C8-C4E1575A2EDB",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,33 +12,36 @@
     "layerOptions": 0,
     "shouldTrim": false
   },
-  "fillReplacesImage": false,
   "frame": {
     "_class": "rect",
-    "constrainProportions": true,
-    "height": 1093,
-    "width": 1547,
-    "x": 0,
-    "y": 0
+    "constrainProportions": false,
+    "height": 120,
+    "width": 626,
+    "x": 171,
+    "y": 2569
   },
   "hasClippingMask": false,
-  "image": {
-    "_class": "MSJSONFileReference",
-    "_ref": "images/72d10ed4a336cec05b7887e7aa7ca349e3da92fe.png",
-    "_ref_class": "MSImageData"
-  },
-  "intendedDPI": 144,
+  "horizontalSpacing": 0,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "Screen Shot 2018-11-15 at 12.33.53 PM",
+  "name": "ButtonWhite ",
   "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7FA177F-1089-4708-8EED-9455A27C26EF",
+      "overrideName": "13E74FFE-CDAA-4F06-94B4-1FBA30F8167F_stringValue",
+      "value": "Prototype"
+    }
+  ],
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
+  "scale": 1,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
@@ -47,5 +49,7 @@
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
-  }
+  },
+  "symbolID": "4B638BD5-3404-4221-AC79-AF21C6B95C1C",
+  "verticalSpacing": 0
 }

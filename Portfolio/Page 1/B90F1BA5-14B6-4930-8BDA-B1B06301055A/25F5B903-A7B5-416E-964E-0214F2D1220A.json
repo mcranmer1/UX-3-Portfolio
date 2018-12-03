@@ -28,11 +28,11 @@
           },
           "textStyleVerticalAlignmentKey": 0
         },
-        "length": 125,
+        "length": 124,
         "location": 0
       }
     ],
-    "string": "\nAmazon\nLate Feb. 2018 - Mid March 2018\nCreate a logo that represents the company \nA website that reflect the brand \nvision \n"
+    "string": "Amazon\nLate Feb. 2018 - Mid March 2018\nCreate a logo that represents the company \nA website that reflect the brand \nvision \n"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "booleanOperation": -1,
@@ -53,12 +53,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "EADF3305-48CF-448D-B585-2DC85B2E420B",
-    "height": 1023,
+    "height": 830,
     "width": 1119,
     "x": 2224,
     "y": 2277
   },
-  "glyphBounds": "{{-1, 95}, {987, 841}}",
+  "glyphBounds": "{{-1, 48}, {987, 748}}",
   "hasClippingMask": false,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
