@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "E84E3263-57ED-4D28-BF1C-5196CE9E0C4D",
+  "do_objectID": "26CF64BF-8AE8-4A9B-B959-4CAC7C68CB60",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 2229,
-    "width": 1222,
-    "x": 2309,
-    "y": 499
+    "height": 2237,
+    "width": 1246,
+    "x": 3818,
+    "y": 1023
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/f3263da67fc44f45bb3c655d3481b39cbe4ae36e.png",
+    "_ref": "images/e0472deacba867e681aefbe99f89e296ba5cbd78.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "BookScanCenter_6",
+  "name": "preppergrocery",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

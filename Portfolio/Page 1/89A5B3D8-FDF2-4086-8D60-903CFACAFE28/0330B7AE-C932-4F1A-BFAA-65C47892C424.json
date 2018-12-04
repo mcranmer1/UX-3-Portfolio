@@ -3,10 +3,9 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "1FEC43E3-A0A2-4B1A-8C92-0E295CA8EB2D",
+  "do_objectID": "0330B7AE-C932-4F1A-BFAA-65C47892C424",
   "exportOptions": {
     "_class": "exportOptions",
-    "do_objectID": "94BC9906-1123-43A3-BCCD-10770420C691",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -18,34 +17,32 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "do_objectID": "788090C1-D904-4D98-9822-02BB203EFD22",
-    "height": 1275,
-    "width": 761,
-    "x": 5654,
-    "y": 5136
+    "height": 3103,
+    "width": 1748,
+    "x": 1729,
+    "y": 75
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/8a6e3c8300af52f6cf9de9bbdb02cef2cac54b05.png",
+    "_ref": "images/b72faba1657d0a87713ba95f8cd22055d8d6bc85.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "BookScanCenter_1",
+  "name": "paymentpaybee",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
-    "do_objectID": "6B8BED4B-C20F-4EE2-B8D8-9C1DFC7202B4",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,

@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "F02CEC04-6637-4563-A7C7-2756149FD307",
+  "do_objectID": "D983C3BD-1606-4347-84FA-3D1582B019ED",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,15 +17,15 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 1275,
-    "width": 1606,
-    "x": 5154.5,
-    "y": 3695.5
+    "height": 1034,
+    "width": 1823,
+    "x": 2745,
+    "y": 108
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/32c69fce6f0f8c8a52d848a6a6c08ebcbfd6fcc1.png",
+    "_ref": "images/4cd9fb293156cfab95b2c4dd16cd9c46967f893c.png",
     "_ref_class": "MSImageData"
   },
   "intendedDPI": 144,
@@ -35,11 +35,11 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "BookScanCenter_1",
+  "name": "Screen Shot 2018-12-03 at 6.22.37 PM",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
-  "rotation": -90,
+  "rotation": 0,
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",

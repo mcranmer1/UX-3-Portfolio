@@ -3,7 +3,7 @@
   "booleanOperation": -1,
   "clippingMask": "{{0, 0}, {1, 1}}",
   "clippingMaskMode": 0,
-  "do_objectID": "D4560485-20CE-4F52-981B-190693D3AB05",
+  "do_objectID": "2CA05110-3901-42FA-9796-CAE464CD127B",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -17,25 +17,25 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 1913,
-    "width": 1314,
-    "x": 3611,
-    "y": 750
+    "height": 2595,
+    "width": 1441,
+    "x": 2767,
+    "y": 665
   },
   "hasClippingMask": false,
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/bd5b66a6b9c9dfd4278bf5c86f2039750ffce2f1.png",
+    "_ref": "images/64519948c78d5f4e38a1ee9671af8d9cc31b4732.png",
     "_ref_class": "MSImageData"
   },
-  "intendedDPI": 144,
+  "intendedDPI": 72,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "BookScanCenter_5",
+  "name": "prepperscreen",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

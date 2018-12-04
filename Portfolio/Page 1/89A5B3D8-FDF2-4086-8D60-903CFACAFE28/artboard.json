@@ -66,6 +66,14 @@
     {
       "class": "bitmap",
       "id": "57C04AA1-1B8C-4E1F-9CBF-6FB74A5E279B"
+    },
+    {
+      "class": "bitmap",
+      "id": "0330B7AE-C932-4F1A-BFAA-65C47892C424"
+    },
+    {
+      "class": "bitmap",
+      "id": "CBB28867-32DC-453A-AB98-0940D67B8DDB"
     }
   ],
   "layout": {
