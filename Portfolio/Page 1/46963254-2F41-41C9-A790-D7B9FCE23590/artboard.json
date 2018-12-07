@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -57,11 +57,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "6C18C44A-9680-46DA-B4D4-9D53C6236979"
+    },
+    {
+      "class": "shapePath",
+      "id": "C5448F0C-0804-44EA-AAD3-977668165164"
     },
     {
       "class": "bitmap",
@@ -74,6 +78,10 @@
     {
       "class": "bitmap",
       "id": "BEF9F348-CB73-48EB-A1C9-FB4612EF4CD2"
+    },
+    {
+      "class": "shapePath",
+      "id": "93DE2F9D-B212-47EF-9919-5821E40EF079"
     }
   ],
   "layout": {

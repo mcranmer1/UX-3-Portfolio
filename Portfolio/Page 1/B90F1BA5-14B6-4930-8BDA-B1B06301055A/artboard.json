@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -62,6 +62,10 @@
     {
       "class": "rectangle",
       "id": "C6EEB36F-6F20-423A-B2F2-E3B3FB9F1B55"
+    },
+    {
+      "class": "rectangle",
+      "id": "F2BCCAF8-28EB-41D4-98D3-73D22889700C"
     },
     {
       "class": "text",

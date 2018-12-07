@@ -18,10 +18,10 @@
       {
         "_class": "exportFormat",
         "absoluteSize": 0,
-        "fileFormat": "png",
+        "fileFormat": "jpg",
         "name": "",
         "namingScheme": 0,
-        "scale": 1,
+        "scale": 2,
         "visibleScaleType": 0
       }
     ],
@@ -57,11 +57,15 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 2,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "rectangle",
       "id": "8AD8E562-9D5D-4B49-935B-EC08CC59A4CC"
+    },
+    {
+      "class": "rectangle",
+      "id": "844DC109-8683-478C-BC63-C6D3D3527B2D"
     },
     {
       "class": "text",
